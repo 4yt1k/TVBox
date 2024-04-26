@@ -4,50 +4,32 @@ CCTV-2 财经,http://www.yao87.com:4022/udp/239.76.253.152:9000
 CCTV-3 综艺,http://www.yao87.com:4022/udp/239.76.253.153:9000
 CCTV-4 中文国际,http://www.yao87.com:4022/udp/239.76.246.154:1234
 CCTV-5 体育,http://www.yao87.com:4022/udp/239.76.253.155:9000
-CCTV-5 体育,http://www.yao87.com:4022/udp/239.76.246.155:1234
-CCTV-5+ 体育赛事,http://www.yao87.com:4022/udp/239.76.247.215:1234
 CCTV-5+ 体育赛事,http://www.yao87.com:4022/udp/239.76.253.168:9000
 CCTV-6 电影,http://www.yao87.com:4022/udp/239.76.246.156:1234
 CCTV-7 国防军事,http://www.yao87.com:4022/udp/239.76.253.157:9000
 CCTV-8 电视剧,http://www.yao87.com:4022/udp/239.76.246.158:1234
 CCTV-9 纪录,http://www.yao87.com:4022/udp/239.76.246.159:1234
 CCTV-9 纪录,http://www.yao87.com:4022/udp/239.76.253.159:9000
-CCTV-9 纪录,http://gzly.softether.net:6005/udp/239.252.220.186:5140
-CCTV-9 纪录,http://123.14.80.242:8888/hls/9/index.m3u8
 CCTV-10 科教,http://www.yao87.com:4022/udp/239.76.253.160:9000
-CCTV-10 科教,http://www.yao87.com:4022/udp/239.76.246.160:1234
 CCTV-11 戏曲,http://www.yao87.com:4022/udp/239.76.245.251:1234
 CCTV-12 社会与法,http://www.yao87.com:4022/udp/239.76.253.162:9000
-CCTV-12 社会与法,http://www.yao87.com:4022/udp/239.76.246.162:1234
 CCTV-13 新闻,http://www.yao87.com:4022/udp/239.76.246.93:1234
-CCTV-13 新闻,http://www.yao87.com:4022/udp/239.76.253.93:9000
-CCTV-14 少儿,http://www.yao87.com:4022/udp/239.76.246.164:1234
 CCTV-14 少儿,http://www.yao87.com:4022/udp/239.76.253.164:9000
 CCTV-15 音乐,http://www.yao87.com:4022/udp/239.76.245.252:1234
 CCTV-16 奥林匹克,http://www.yao87.com:4022/udp/239.76.246.98:1234
-CCTV-16 奥林匹克,http://www.yao87.com:4022/udp/239.76.253.214:9000
-CCTV-16 奥林匹克,http://www.yao87.com:4022/udp/239.76.253.230:9000
-CCTV-16 奥林匹克,http://www.yao87.com:4022/udp/239.76.253.98:9000
-CCTV-16 奥林匹克,http://www.yao87.com:4022/udp/239.76.254.200:9000
-CCTV-16 奥林匹克,http://www.yao87.com:4022/udp/239.76.253.224:9000
 CCTV-17 农业农村,http://www.yao87.com:4022/udp/239.76.245.238:1234
 CCTV_音乐,http://111.74.155.231:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV_少儿超,http://111.74.155.231:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV_世界地理,http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
-CCTV_世界地理,http://ssrs2004.win:8888/udp/239.111.205.71:5140
-CCTV_,http://gd.ikhs.cn:8880/rtp/239.69.1.12:9712
+CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV_风云足球,http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
-CCTV_第一剧场,http://home.sylaigym.top:8887/rtp/239.69.1.74:10084
 CCTV_第一剧场,http://171.117.73.52:8085/rtp/226.0.2.221:9680
 CCTV_高尔夫网球,http://home.sylaigym.top:8887/rtp/239.69.1.83:10138
 CCTV_央视台球,http://home.sylaigym.top:8887/rtp/239.69.1.98:10224
-CCTV_兵器科技,http://home.sylaigym.top:8887/rtp/239.69.1.79:10114
 CCTV_兵器科技,http://171.117.73.52:8085/rtp/226.0.2.223:9696
-CCTV_电视指南,http://171.117.73.52:8083/rtp/226.0.2.218:9656
 CCTV_电视指南,http://171.117.73.52:8085/rtp/226.0.2.218:9656
 CCTV_风云音乐,http://171.117.73.52:8083/rtp/226.0.2.220:9672
 CCTV_央视文化精品,http://171.117.73.52:8083/rtp/226.0.2.219:9664
-CCTV_怀旧剧场,http://61.140.124.156:8888/udp/239.253.43.5:5146
 CCTV_怀旧剧场,http://171.117.73.52:8083/rtp/226.0.2.224:9704
 CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 CCTV_女人时尚,http://ssrs2004.win:8888/udp/239.111.205.72:5140
@@ -55,27 +37,16 @@ CCTV_女人时尚,http://ssrs2004.win:8888/udp/239.111.205.72:5140
 卡酷,http://59.55.35.90:20000/hls/65/index.m3u8
 卫视台 ,#genre#,#genre#
 云南卫视,http://59.55.35.90:20000/hls/41/index.m3u8
-云南卫视,http://115.206.161.85:8888/rtp/233.50.201.46:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-广东卫视,http://glive.grtn.cn/live/lizhi.m3u8
-广东卫视,http://123.154.30.3:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://xwh.8211321.com:5555/rtp/239.61.2.33:8192
 河北卫视,http://www.191919.xyz:8888/udp/238.1.78.245:7832
 江西卫视,http://www.191919.xyz:8888/udp/238.1.78.26:6136
-深圳卫视,http://www.191919.xyz:8888/udp/238.1.78.156:7120
-深圳卫视,http://115.206.161.85:8888/rtp/233.50.201.101:5140
 深圳卫视,http://60.174.137.146:9901/tsfile/live/1038_1.m3u8
 辽宁卫视,http://www.191919.xyz:8888/udp/238.1.78.21:6096
-辽宁卫视,http://123.154.30.3:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://221.226.4.10:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://123.154.30.3:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://www.191919.xyz:8888/udp/238.1.78.162:7168
 北京卫视,http://60.174.137.146:9901/tsfile/live/1025_1.m3u8
 江苏卫视,http://www.191919.xyz:8888/udp/238.1.78.165:7192
-江苏卫视,http://115.206.161.85:8888/rtp/233.50.201.106:5140
-黑龙江卫视,http://www.191919.xyz:8888/udp/238.1.78.159:7144
 黑龙江卫视,http://60.12.183.46:9901/tsfile/live/1001_1.m3u8
-湖南卫视,http://115.206.161.85:8888/rtp/233.50.201.103:5140
 湖南卫视,http://60.174.137.146:9901/tsfile/live/1030_1.m3u8
 东方卫视,http://www.191919.xyz:8888/udp/238.1.78.163:7176
 河南卫视,http://221.226.4.10:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -83,12 +54,8 @@ CCTV_女人时尚,http://ssrs2004.win:8888/udp/239.111.205.72:5140
 西藏卫视,http://123.154.30.3:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 甘肃卫视,http://www.191919.xyz:8888/udp/238.1.79.36:4400
 山东卫视,http://www.191919.xyz:8888/udp/238.1.78.169:7224
-山东卫视,http://115.206.161.85:8888/rtp/233.50.201.105:5140
-重庆卫视,http://www.191919.xyz:8888/udp/238.1.78.31:6176
 重庆卫视,http://60.174.137.146:9901/tsfile/live/1028_1.m3u8
-天津卫视,http://115.206.161.85:8888/rtp/233.50.201.104:5140
 天津卫视,http://60.174.137.146:9901/tsfile/live/1027_1.m3u8
-天津卫视,http://123.154.30.3:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://115.206.161.85:8888/rtp/233.50.201.55:5140
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 东南卫视,http://123.154.30.3:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
