@@ -15,6 +15,8 @@ CCTV-12法制,http://106.46.114.29:8011/tsfile/live/0012_1.m3u8?key=txiptv&playl
 CCTV-13新闻,http://106.46.114.29:8011/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14少儿,http://106.46.114.29:8011/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15音乐,http://106.46.114.29:8011/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080
+CCTV-17农业,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-5+体育赛事,http://106.46.114.29:8011/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV_电视指南,http://171.117.73.52:8085/rtp/226.0.2.218:9656
 CCTV_风云音乐,http://171.117.73.52:8083/rtp/226.0.2.220:9672
@@ -73,3 +75,6 @@ CCTV_女人时尚,http://ssrs2004.win:8888/udp/239.111.205.72:5140
 凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
+电影频道,#genre#
+4K影院,http://159.75.85.63:35455/douyu/9249162
