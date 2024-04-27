@@ -53,13 +53,6 @@ CCTV-5,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/8888888
 CCTV-5,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-5,https://cntv.lat/tv/live.php?auth=231110&id=cctv5p
 CCTV-5,https://cntv.lat/tv/live.php?auth=231110&id=cctv5
-CCTV-5+,http://106.46.114.29:8011/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5+,http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
-CCTV-5+,http://154.yfvodcdn.com:8080/live/jsydcctv5p/hls.m3u8
-CCTV-5+,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-CCTV-5+,https://cntv.lat/tv/live.php?auth=231110&id=cctv5p
-CCTV-5+,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV-5+,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 CCTV-6,http://106.46.114.29:8011/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-6,http://114.249.18.134:4022/rtp/239.3.1.174:8001
 CCTV-6,http://123.113.248.110:8888/rtp/239.3.1.174:8001
@@ -159,27 +152,13 @@ CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/888888
 CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225515/index.m3u8
 CCTV-15,http://xxw.me0.cn/api/migu.php?id=18
 CCTV-15,https://cntv.lat/tv/live.php?auth=231110&id=cctv15
-CCTV-16,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
-CCTV-16,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226309/index.m3u8
-CCTV-16,https://cntv.lat/tv/live.php?auth=231110&id=cctv164k
-CCTV-16,https://cntv.lat/tv/live.php?auth=231110&id=cctv16
-CCTV-16,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-CCTV-16,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
-CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV-16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-CCTV-17,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
-CCTV-17,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
-CCTV-17,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SE-NqejOBHvsvoaAvbJWVAkq3EfVoNKe7gLLB5X1KwhI/ts
-CCTV-17,http://62.210.209.138:41000/series/v52/v43/6891.mp4
-CCTV-17,https://cntv.lat/tv/live.php?auth=231110&id=cctv17
-CCTV-17,http://62.210.209.138:41000/series/v52/v43/8058.mp4
-CCTV-17,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
-CCTV-17,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
-CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
-CCTV_15,http://111.74.155.231:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV_14,http://111.74.155.231:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5+,http://106.46.114.29:8011/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5+,http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
+CCTV-5+,http://154.yfvodcdn.com:8080/live/jsydcctv5p/hls.m3u8
+CCTV-5+,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+CCTV-5+,https://cntv.lat/tv/live.php?auth=231110&id=cctv5p
+CCTV-5+,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+CCTV-5+,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 CCTV_世界地理,http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
 CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV_风云足球,http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
@@ -195,15 +174,10 @@ CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 CCTV_女人时尚,http://ssrs2004.win:8888/udp/239.111.205.72:5140
 
 少儿 ,#genre#
-卡酷,http://59.55.35.90:20000/hls/65/index.m3u8
 金鹰卡通,http://106.46.114.29:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰纪实,http://221.234.25.122:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷卡通,http://111.161.149.182:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-ZTV8,http://124.90.208.196:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-CGTN,http://221.234.25.122:9999/tsfile/live/0128_2.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
-上海卫视,http://106.46.114.29:8011/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/gxwshd8m/8000000/mnf.m3u8
 广西卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=58
 广西卫视,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
