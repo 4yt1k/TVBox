@@ -1,4 +1,3 @@
-
 央视频道,#genre#
 CCTV-1,http://106.46.114.29:8011/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-1,http://49.87.154.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -152,10 +151,13 @@ CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/888888
 CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225515/index.m3u8
 CCTV-15,http://xxw.me0.cn/api/migu.php?id=18
 CCTV-15,https://cntv.lat/tv/live.php?auth=231110&id=cctv15
-CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080
-CCTV-17农业,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
-CCTV-17农业,http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
-CCTV-17农业,http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-16奥林匹克,http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
+CCTV-16奥林匹克,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV-16奥林匹克,http://php.jdshipin.com:8880/cqyx.php?id=CCTV16_4K
+CCTV-17农业,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV-17农业,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
+CCTV-17农业,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV-17农业,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 CCTV-5+,http://106.46.114.29:8011/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5+,http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
 CCTV-5+,http://154.yfvodcdn.com:8080/live/jsydcctv5p/hls.m3u8
@@ -590,7 +592,7 @@ CCTV_女人时尚,http://ssrs2004.win:8888/udp/239.111.205.72:5140
 恐怖惊悚,http://159.75.85.63:35455/douyu/96577#http://maomao.kandiantv.cn/douyu1.php?id=96577
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 神乐影院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 可乐影院,http://159.75.85.63:35455/douyu/20415
 電影劇場,http://159.75.85.63:35455/douyu/7575350
 吃米滴虫1,http://159.75.85.63:35455/douyu/315457
