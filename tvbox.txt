@@ -801,7 +801,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/live1.txt",
+      "url": "https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15"
     }
