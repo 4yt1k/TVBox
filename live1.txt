@@ -14,7 +14,7 @@ CCTV-12社会与法,http://www.furymax.top:85/rtp/239.69.1.106:10274
 CCTV-13新闻,http://www.furymax.top:85/rtp/239.254.96.161:9040
 CCTV-14少儿,http://www.furymax.top:85/rtp/239.69.1.107:10280
 CCTV-15音乐,http://www.furymax.top:85/rtp/239.69.1.155:10566
-CCTV-16奥林匹克,http://www.furymax.top:85/rtp/239.69.1.249:11136
+CCTV-16奥林匹克,http://www.furymax.top:85/rtp/239.69.1.247:11124
 CCTV-17农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 CCTV-5+体育赛事,http://www.furymax.top:85/rtp/239.254.96.234:9484
 CCTV_风云足球,http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
