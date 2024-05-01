@@ -571,7 +571,7 @@
             "url": "https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/4epg.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
-            "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
