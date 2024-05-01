@@ -21,7 +21,7 @@ CCTV_风云足球,http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
 CCTV_央视台球,http://home.sylaigym.top:8887/rtp/239.69.1.98:10224
 CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 CCTV_世界地理,http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
-CCTV_4K超高清,http://159.75.85.63:5679/cctv4k.php
+CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
