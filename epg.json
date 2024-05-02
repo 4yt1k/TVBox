@@ -568,8 +568,8 @@
         {
             "name": "live",
             "type": 0,
-            //"url": "https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/4epg.m3u",
-            "url": "https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/live.m3u",
+            "url": "https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/4epg.m3u",
+            //"url": "https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/live.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
