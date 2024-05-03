@@ -613,8 +613,8 @@ Tvbs新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 动漫秀场,http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 
 电影频道,#genre#
-重温经典,http://mtw.so/5NPX0U
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 4K影院画质,http://159.75.85.63:35455/douyu/9249162
 豆瓣高分,http://159.75.85.63:35455/douyu/8770422
@@ -622,22 +622,17 @@ Tvbs新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 粤语电影,http://43.138.170.29:35455/douyu/6566671
 國語電影,http://159.75.85.63:35455/douyu/2436390
 经典电影,http://111.199.239.209:3568/rtp/239.3.1.195:9024
-全球大片,http://182.136.215.165:4022/udp/239.93.0.105:5140
 全球大片,http://www.pr666.site:4040/udp/239.255.30.196:8231
 华语影院,http://182.136.215.165:4022/udp/239.93.0.138:5140
-谍战剧场,http://www.pr666.site:4040/udp/239.255.30.166:8231$甘肃电信组播
-谍战剧场,http://rt4.orangevip.top:8999/rtp/232.0.0.203:1234
-谍战剧场,http://182.136.215.165:4022/udp/239.93.0.95:5140
+谍战剧场,http://www.pr666.site:4040/udp/239.255.30.166:8231
+BestTV,http://rt4.orangevip.top:8999/rtp/232.0.0.203:1234
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
-漫威剧情,http://159.75.85.63:35455/douyu/6140589#http://maomao.kandiantv.cn/douyu1.php?id=6140589
 欧美大片,http://159.75.85.63:35455/douyu/2793084
-欧美大片,http://159.75.85.63:35455/douyu/2793084#http://maomao.kandiantv.cn/douyu1.php?id=2793084
 喜剧电影,http://43.138.170.29:35455/douyu/9292492
-喜剧电影,http://159.75.85.63:35455/douyu/9292492#http://maomao.kandiantv.cn/douyu1.php?id=9292492
+喜剧电影,http://159.75.85.63:35455/douyu/9292492
 经典TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 华语经典,http://159.75.85.63:35455/douyu/434971
 恐怖惊悚,http://159.75.85.63:35455/douyu/96577
-恐怖惊悚,http://159.75.85.63:35455/douyu/96577#http://maomao.kandiantv.cn/douyu1.php?id=96577
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 神乐影院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
