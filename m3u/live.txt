@@ -180,6 +180,8 @@ CCTV-5+体育赛事,http://www.furymax.top:85/rtp/239.254.96.234:9484
 CCTV-5+体育赛事,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+体育赛事,http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
 CCTV_风云足球,http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
+CCTV_风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
+CCTV_风云足球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 CCTV_央视台球,http://home.sylaigym.top:8887/rtp/239.69.1.98:10224
 CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 CCTV_世界地理,http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
@@ -435,12 +437,12 @@ CETV-1,http://120.87.97.245:8114/GD_CUCC/G_CETV-1-HQ.m3u8?Authinfo=56fbZo0WT6rfM
 凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.1.4:2191
 凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-凤凰香港,http://60.164.229.241:4040/udp/239.255.30.123:8231
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
+凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+凤凰香港,http://60.164.229.241:4040/udp/239.255.30.123:8231
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 Tvbs新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
