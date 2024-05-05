@@ -1,6 +1,6 @@
 {
 "spider":"./jar/fan.txt;md5;ca8aebf22c8948c98104d094d5f87c73",
-"lives":[{"name":"初秋语•ipv4","type":0,"url":"https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/m3u/live.m3u","playerType":1,"epg":"https://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[{"name":"初秋语•ipv4","type":0,"url":"https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/m3u/live.txt","playerType":1,"epg":"https://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"https://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"drang•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","playerType":1,"epg":"https://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"https://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
