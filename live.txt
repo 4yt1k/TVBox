@@ -178,14 +178,12 @@ CCTV-5+体育赛事,http://58.248.112.229:8114/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Auth
 CCTV-5+体育赛事,http://www.furymax.top:85/rtp/239.254.96.234:9484
 CCTV-5+体育赛事,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+体育赛事,http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
-CCTV_风云足球,http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
 CCTV_风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 CCTV_风云足球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV_央视台球,http://home.sylaigym.top:8887/rtp/239.69.1.98:10224
 CCTV_央视台球,http://124.238.110.15:9999/tsfile/live/1002_1.m3u8
 CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 CCTV_风云剧场,http://111.226.119.230:9999/tsfile/live/1024_1.m3u8
-CCTV_世界地理,http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
+CCTV_世界地理,http://124.238.110.15:9999/tsfile/live/1024_1.m3u8
 CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV_4K超高清,http://159.75.85.63:5679/cctv4k.php
@@ -296,6 +294,7 @@ CCTV_4K超高清,http://159.75.85.63:5679/cctv4k.php
 四川卫视,http://www.furymax.top:85/rtp/239.69.1.169:10650
 四川卫视,http://222.241.154.37:9901/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://113.128.226.58:8888/newlive/live/hls/36/live.m3u8
+重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://106.115.26.98:9999/tsfile/live/0142_1.m3u8
 重庆卫视,http://106.115.27.203:9999/tsfile/live/0142_1.m3u8
 重庆卫视,http://106.115.25.221:9999/tsfile/live/0142_1.m3u8
