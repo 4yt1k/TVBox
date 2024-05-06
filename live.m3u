@@ -358,13 +358,9 @@ http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
-http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
 http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🌏｜央视频道",CCTV_央视台球
-http://home.sylaigym.top:8887/rtp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🌏｜央视频道",CCTV_央视台球
 http://124.238.110.15:9999/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
@@ -372,7 +368,7 @@ http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://111.226.119.230:9999/tsfile/live/1024_1.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🌏｜央视频道",CCTV_世界地理
-http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
+http://124.238.110.15:9999/tsfile/live/1024_1.m3u8
 #EXTINF:-1 tvg-id="CCTV_4K超高清" tvg-name="CCTV_4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV_4K.png" group-title="🌏｜央视频道",CCTV_4K超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:-1 tvg-id="CCTV_4K超高清" tvg-name="CCTV_4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV_4K.png" group-title="🌏｜央视频道",CCTV_4K超高清
