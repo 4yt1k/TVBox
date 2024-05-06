@@ -10,7 +10,6 @@ CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1综合,http://113.128.226.58:8888/newlive/live/hls/2/live.m3u8
 CCTV-1综合,http://www.furymax.top:85/rtp/239.254.96.96:8550
 CCTV-1综合,http://49.87.154.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1综合,http://171.116.58.215:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2财经,http://106.115.26.98:9999/tsfile/live/1001_1.m3u8
 CCTV-2财经,http://106.115.27.203:9999/tsfile/live/1001_1.m3u8
 CCTV-2财经,http://106.115.25.221:9999/tsfile/live/1001_1.m3u8
@@ -24,13 +23,11 @@ CCTV-2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-2财经,http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2财经,http://113.128.226.58:8888/newlive/live/hls/3/live.m3u8
 CCTV-2财经,http://www.furymax.top:85/rtp/239.69.1.102:10250
-CCTV-2财经,http://171.116.58.215:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3综艺,http://221.4.143.69:8114/GD_CUCC/G_CCTV-3-HQ.m3u8?Authinfo=c3gtWzP4ZEqhfA8KQQ31%2BWxpRRTmKdeA65HCtw9n7tZYu2aUz4D%2FltCFOMbDB01q&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1712372335779&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=51289b750f1b21e9&FvSeid=a9fd557842eae9de&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1104&Fsv_chan_hls_se_idx=11&Fsv_TBt=3319776&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-3-HQ&Fsv_CMSID=GD_CUCC
 CCTV-3综艺,http://221.4.143.70:8114/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141713143&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9b01de7422d3&FvSeid=88fe5578aee4ebd2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9873&Fsv_chan_hls_se_idx=59&Fsv_TBt=8465136&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-3-CQ&Fsv_CMSID=GD_CUCC
 CCTV-3综艺,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3综艺,http://www.furymax.top:85/rtp/239.69.1.122:10370
 CCTV-3综艺,http://113.128.226.58:8888/newlive/live/hls/4/live.m3u8
-CCTV-3综艺,http://171.116.58.215:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3综艺,http://221.234.25.122:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4中文国际,http://106.115.26.98:9999/tsfile/live/1003_1.m3u8
 CCTV-4中文国际,http://106.115.27.203:9999/tsfile/live/1003_1.m3u8
@@ -41,7 +38,6 @@ CCTV-4中文国际,http://221.4.143.70:8114/GD_CUCC/G_CCTV-4-HQ.m3u8?Authinfo=c3
 CCTV-4中文国际,http://58.248.112.229:8114/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRab8%2B23dyjcWftcVGhPU%2BNGwbxMCOQz1LvVoHJF7Vi%2F&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141890962&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9c65870a689b&FvSeid=88fe5578aeeccb46&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18136&Fsv_chan_hls_se_idx=59&Fsv_TBt=8467576&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-4-CQ&Fsv_CMSID=GD_CUCC
 CCTV-4中文国际,http://222.241.154.37:9901/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4中文国际,http://www.furymax.top:85/rtp/239.69.1.138:10466
-CCTV-4中文国际,http://171.116.58.215:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4中文国际,http://113.128.226.58:8888/newlive/live/hls/5/live.m3u8
 CCTV-5体育,http://221.4.143.69:8114/GD_CUCC/G_CCTV-5-HQ.m3u8?Authinfo=c3gtWzP4ZEqhfA8KQQ31%2BQkm%2BowvgF9P%2F4rVOHntUarNoeMah5M2heah%2FYrmcTwP&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1712375232687&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=5128b2171ca3e61f&FvSeid=a9fd557843182cd8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1102&Fsv_chan_hls_se_idx=10&Fsv_TBt=3319296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5-HQ&Fsv_CMSID=GD_CUCC
 CCTV-5体育,http://58.248.112.230:8114/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141993662&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9d32fa20cc6a&FvSeid=88fe5578aeee6593&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18135&Fsv_chan_hls_se_idx=58&Fsv_TBt=8468304&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5-CQ&Fsv_CMSID=GD_CUCC
@@ -51,13 +47,11 @@ CCTV-5体育,http://www.furymax.top:85/rtp/239.69.1.123:10376
 CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5体育,http://113.128.226.58:8888/newlive/live/hls/6/live.m3u8
 CCTV-5体育,http://222.128.86.76:8133/rtp/239.3.1.173:8001
-CCTV-5体育,http://171.116.58.215:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://58.248.112.230:8114/GD_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142154017&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9e73ad37b261&FvSeid=88fe5578aef0e784&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18133&Fsv_chan_hls_se_idx=57&Fsv_TBt=8464824&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-6-CQ&Fsv_CMSID=GD_CUCC
 CCTV-6电影,http://www.furymax.top:85/rtp/239.69.1.124:10382
 CCTV-6电影,http://114.249.18.134:4022/rtp/239.3.1.174:8001
 CCTV-6电影,http://123.113.248.110:8888/rtp/239.3.1.174:8001
 CCTV-6电影,http://222.241.154.37:9901/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6电影,http://171.116.58.215:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://113.128.226.58:8888/newlive/live/hls/8/live.m3u8
 CCTV-7军事,http://106.115.26.98:9999/tsfile/live/0007_1.m3u8
 CCTV-7军事,http://106.115.27.203:9999/tsfile/live/0007_1.m3u8
@@ -70,7 +64,6 @@ CCTV-7军事,http://www.furymax.top:85/rtp/239.69.1.103:10256
 CCTV-7军事,http://222.241.154.37:9901/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7军事,http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7军事,http://113.128.226.58:8888/newlive/live/hls/9/live.m3u8
-CCTV-7军事,http://171.116.58.215:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8电视剧,http://58.248.112.230:8114/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142312998&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9fb1a10697de&FvSeid=88fe5578aef360be&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18131&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466856&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-8-CQ&Fsv_CMSID=GD_CUCC
 CCTV-8电视剧,http://221.4.143.69:8114/GD_CUCC/G_CCTV-8-HQ.m3u8?Authinfo=c3gtWzP4ZEqhfA8KQQ31%2BV8f67mTfLVoexz1qAjqvYRp3kfzpYg0PWu7yNmF3ZgC&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1712375802299&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=5128b68a50453636&FvSeid=a9fd557843211637&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1098&Fsv_chan_hls_se_idx=8&Fsv_TBt=3319248&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-8-HQ&Fsv_CMSID=GD_CUCC
 CCTV-8电视剧,http://222.128.86.76:8133/rtp/239.3.1.175:8001
@@ -78,7 +71,6 @@ CCTV-8电视剧,http://www.furymax.top:85/rtp/239.69.1.125:10388
 CCTV-8电视剧,http://222.241.154.37:9901/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8电视剧,http://113.128.226.58:8888/newlive/live/hls/10/live.m3u8
 CCTV-8电视剧,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41142/index.m3u8
-CCTV-8电视剧,http://171.116.58.215:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9纪录,http://106.115.26.98:9999/tsfile/live/0009_1.m3u8
 CCTV-9纪录,http://106.115.27.203:9999/tsfile/live/0009_1.m3u8
 CCTV-9纪录,http://106.115.25.221:9999/tsfile/live/0009_1.m3u8
@@ -89,7 +81,6 @@ CCTV-9纪录,http://221.4.143.69:8114/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0W
 CCTV-9纪录,http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9纪录,http://www.furymax.top:85/rtp/239.69.1.104:10262
 CCTV-9纪录,http://113.128.226.58:8888/newlive/live/hls/11/live.m3u8
-CCTV-9纪录,http://171.116.58.215:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10科教,http://106.115.26.98:9999/tsfile/live/0010_1.m3u8
 CCTV-10科教,http://106.115.27.203:9999/tsfile/live/0010_1.m3u8
 CCTV-10科教,http://106.115.25.221:9999/tsfile/live/0010_1.m3u8
@@ -99,7 +90,6 @@ CCTV-10科教,http://120.87.97.245:8114/GD_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=c3gtW
 CCTV-10科教,http://120.87.97.246:8114/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142432333&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea0a05b529be9&FvSeid=88fe5578aef54285&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4288&Fsv_chan_hls_se_idx=55&Fsv_TBt=8467232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-10-CQ&Fsv_CMSID=GD_CUCC
 CCTV-10科教,http://www.furymax.top:85/rtp/239.69.1.105:10268
 CCTV-10科教,http://222.241.154.37:9901/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10科教,http://171.116.58.215:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10科教,http://113.128.226.58:8888/newlive/live/hls/12/live.m3u8
 CCTV-11戏曲,http://106.115.26.98:9999/tsfile/live/0011_1.m3u8
 CCTV-11戏曲,http://106.115.27.203:9999/tsfile/live/0011_1.m3u8
@@ -109,7 +99,6 @@ CCTV-11戏曲,http://106.115.25.33:9999/tsfile/live/0011_1.m3u8
 CCTV-11戏曲,http://58.248.112.229:8114/GD_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=c3gtWzP4ZEqhfA8KQQ31%2Bdx%2BkM5EwuU1PAi29eUkOfpnFYClcJSBKtO1ZJwb4s3k&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1712376187023&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=5128b98bb1d1434f&FvSeid=a9fd5578432717c1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=2337&Fsv_chan_hls_se_idx=1&Fsv_TBt=4356296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-11-HQ&Fsv_CMSID=GD_CUCC
 CCTV-11戏曲,http://www.furymax.top:85/rtp/239.69.1.154:10560
 CCTV-11戏曲,http://222.241.154.37:9901/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11戏曲,http://171.116.58.215:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11戏曲,http://113.128.226.58:8888/newlive/live/hls/13/live.m3u8
 CCTV-12社会与法,http://106.115.26.98:9999/tsfile/live/0012_1.m3u8
 CCTV-12社会与法,http://106.115.27.203:9999/tsfile/live/0012_1.m3u8
@@ -121,7 +110,6 @@ CCTV-12社会与法,http://58.248.112.230:8114/GD_CUCC/G_CCTV-12-CQ.m3u8?Authinf
 CCTV-12社会与法,http://222.241.154.37:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12社会与法,http://www.furymax.top:85/rtp/239.69.1.106:10274
 CCTV-12社会与法,http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12社会与法,http://171.116.58.215:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12社会与法,http://113.128.226.58:8888/newlive/live/hls/14/live.m3u8
 CCTV-13新闻,http://106.115.26.98:9999/tsfile/live/0013_1.m3u8
 CCTV-13新闻,http://106.115.27.203:9999/tsfile/live/0013_1.m3u8
@@ -130,10 +118,8 @@ CCTV-13新闻,http://106.115.25.165:9999/tsfile/live/0013_1.m3u8
 CCTV-13新闻,http://106.115.25.33:9999/tsfile/live/0013_1.m3u8
 CCTV-13新闻,http://58.248.112.229:8114/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142684111&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea297dbe86391&FvSeid=88fe5578aef92c0e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18126&Fsv_chan_hls_se_idx=54&Fsv_TBt=8467928&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-13-CQ&Fsv_CMSID=GD_CUCC
 CCTV-13新闻,http://27.40.16.70:8114/GD_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=c3gtWzP4ZEqhfA8KQQ31%2Belr8LWX6N%2BsxuSuyJeisy3xi5Gc3MCTAcr3Zfhz22aD&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1712376338498&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=5128babab750a6bb&FvSeid=a9fd557843297776&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1021&Fsv_chan_hls_se_idx=4&Fsv_TBt=4356296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-13-HQ&Fsv_CMSID=GD_CUCC
-CCTV-13新闻,http://61.51.142.149:8888/rtp/239.3.1.124:8128
 CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV-13新闻,http://www.furymax.top:85/rtp/239.254.96.161:9040
-CCTV-13新闻,http://171.116.58.215:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13新闻,http://113.128.226.58:8888/newlive/live/hls/15/live.m3u8
 CCTV-13新闻,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13新闻,http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -147,7 +133,6 @@ CCTV-14少儿,http://120.87.97.246:8114/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fbZ
 CCTV-14少儿,http://222.241.154.37:9901/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14少儿,http://www.furymax.top:85/rtp/239.69.1.107:10280
 CCTV-14少儿,http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14少儿,http://171.116.58.215:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14少儿,http://113.128.226.58:8888/newlive/live/hls/16/live.m3u8
 CCTV-15音乐,http://106.115.26.98:9999/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://106.115.27.203:9999/tsfile/live/0015_1.m3u8
@@ -179,6 +164,8 @@ CCTV-5+体育赛事,http://www.furymax.top:85/rtp/239.254.96.234:9484
 CCTV-5+体育赛事,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+体育赛事,http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
 CCTV_风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
+CCTV_风云足球,http://113.222.43.131:8882/udp/239.76.254.52:9000
+CCTV_风云足球,http://gzly.hkychina.com:6002/udp/239.252.219.96:5140
 CCTV_风云足球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 CCTV_央视台球,http://124.238.110.15:9999/tsfile/live/1002_1.m3u8
 CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
@@ -221,7 +208,6 @@ CCTV_4K超高清,http://159.75.85.63:5679/cctv4k.php
 湖南卫视,http://www.furymax.top:85/rtp/239.254.96.139:8908
 湖南卫视,http://222.241.154.37:9901/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://59.174.224.253:8880/rtp/239.254.96.139:8908
-湖南卫视,http://221.217.53.241:8686/rtp/239.3.1.132:8012
 湖南卫视,http://113.128.226.58:8888/newlive/live/hls/20/live.m3u8
 湖南卫视,http://223.112.219.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
@@ -269,7 +255,6 @@ CCTV_4K超高清,http://159.75.85.63:5679/cctv4k.php
 广西卫视,http://www.furymax.top:85/rtp/239.69.1.191:10788
 广西卫视,http://222.241.154.37:9901/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://113.128.226.58:8888/newlive/live/hls/44/live.m3u8
-广西卫视,http://113.12.72.152:9901/tsfile/live/1024_1.m3u8
 广东卫视,http://106.115.26.98:9999/tsfile/live/0125_1.m3u8
 广东卫视,http://106.115.27.203:9999/tsfile/live/0125_1.m3u8
 广东卫视,http://106.115.25.221:9999/tsfile/live/0125_1.m3u8
