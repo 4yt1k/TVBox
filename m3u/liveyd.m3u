@@ -346,8 +346,6 @@ http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://www.furymax.top:85/rtp/239.69.1.152:10548
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://113.128.226.58:8888/newlive/live/hls/18/live.m3u8
@@ -691,8 +689,6 @@ http://106.115.25.221:9999/tsfile/live/0117_1.m3u8
 http://106.115.25.165:9999/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="📡｜卫视频道",河北卫视
 http://106.115.25.33:9999/tsfile/live/0117_1.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="📡｜卫视频道",河北卫视
-http://121.17.146.174:2022/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="📡｜卫视频道",河北卫视
 http://www.furymax.top:85/rtp/239.69.1.157:10578
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="📡｜卫视频道",河北卫视
