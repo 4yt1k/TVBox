@@ -811,8 +811,6 @@ http://120.87.97.245:8114/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=c3gtWzP4ZEqhfA8KQQ31
 http://www.furymax.top:85/rtp/239.69.1.151:10542
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="📡｜卫视频道",海南卫视
 http://113.128.226.58:8888/newlive/live/hls/35/live.m3u8
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="📡｜卫视频道",三沙卫视
-http://www.furymax.top:85/rtp/239.69.1.171:10662
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡｜卫视频道",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡｜卫视频道",辽宁卫视
