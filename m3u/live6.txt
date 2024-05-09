@@ -183,11 +183,13 @@ CCTV-5+体育赛事,http://www.furymax.top:85/rtp/239.254.96.234:9484
 CCTV-5+体育赛事,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+体育赛事,http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
 CCTV_风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
-CCTV_风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 CCTV_风云足球,http://gzly.hkychina.com:6002/udp/239.252.219.96:5140
+CCTV_风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 CCTV_央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 CCTV_风云剧场,http://111.226.119.230:9999/tsfile/live/1024_1.m3u8
+CCTV_风云剧场,http://106.115.27.61:9999/tsfile/live/1024_1.m3u8
+CCTV_风云剧场,http://106.115.25.180:9999/tsfile/live/1024_1.m3u8
 CCTV_第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 CCTV_世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
 CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -322,6 +324,7 @@ CCTV_4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1
 重庆卫视,http://106.115.25.221:9999/tsfile/live/0142_1.m3u8
 重庆卫视,http://106.115.25.165:9999/tsfile/live/0142_1.m3u8
 重庆卫视,http://106.115.25.33:9999/tsfile/live/0142_1.m3u8
+重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://www.furymax.top:85/rtp/239.69.1.149:10530
 重庆卫视,http://222.241.154.37:9901/tsfile/live/23042_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.128.226.58:8888/newlive/live/hls/31/live.m3u8
