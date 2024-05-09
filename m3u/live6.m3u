@@ -368,15 +368,19 @@ http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
-http://111.225.114.68:808/tsfile/live/1037_1.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
 http://gzly.hkychina.com:6002/udp/239.252.219.96:5140
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
+http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🌏｜央视频道",CCTV_央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://111.226.119.230:9999/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+http://106.115.27.61:9999/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+http://106.115.25.180:9999/tsfile/live/1024_1.m3u8
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🌏｜央视频道",CCTV_第一剧场
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🌏｜央视频道",CCTV_世界地理
@@ -641,6 +645,8 @@ http://106.115.25.221:9999/tsfile/live/0142_1.m3u8
 http://106.115.25.165:9999/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡｜卫视频道",重庆卫视
 http://106.115.25.33:9999/tsfile/live/0142_1.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡｜卫视频道",重庆卫视
+https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡｜卫视频道",重庆卫视
 http://www.furymax.top:85/rtp/239.69.1.149:10530
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡｜卫视频道",重庆卫视
