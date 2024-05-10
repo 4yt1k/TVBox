@@ -503,6 +503,7 @@ Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 广东体育,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 
 🌈| 少儿动画,#genre#
 金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
