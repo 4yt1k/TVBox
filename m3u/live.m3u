@@ -300,6 +300,8 @@ http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🌏｜央视频道",CCTV_央视台球
 http://124.238.110.15:9999/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+http://175.146.120.43:8888/rtp/232.0.0.45:1234
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://111.226.119.230:9999/tsfile/live/1024_1.m3u8
