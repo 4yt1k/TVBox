@@ -186,12 +186,19 @@ CCTV_风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 CCTV_风云足球,http://gzly.hkychina.com:6002/udp/239.252.219.96:5140
 CCTV_风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 CCTV_央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
+CCTV_央视台球,http://14.121.146.163:554/udp/239.253.43.21:5146
+CCTV_央视台球,http://14.121.146.163:554/udp/239.253.43.11:5146
+CCTV_风云剧场,http://175.146.120.43:8888/rtp/232.0.0.45:1234
 CCTV_风云剧场,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
+CCTV_风云剧场,http://14.121.146.163:554/udp/239.253.43.26:5146
 CCTV_风云剧场,http://111.226.119.230:9999/tsfile/live/1024_1.m3u8
 CCTV_风云剧场,http://106.115.27.61:9999/tsfile/live/1024_1.m3u8
 CCTV_风云剧场,http://106.115.25.180:9999/tsfile/live/1024_1.m3u8
 CCTV_第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 CCTV_世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
+CCTV_世界地理,http://218.67.173.165:8888/udp/225.1.2.171:5002
+CCTV_世界地理,http://60.2.190.206:4000/rtp/239.253.92.131:6113
+CCTV_世界地理,http://gmxw.7766.org:808/hls/11/index.m3u8
 CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV_4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV_4K超高清,http://159.75.85.63:5679/cctv4k.php
@@ -480,7 +487,12 @@ CETV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u
 凤凰中文,http://113.64.145.61:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰中文,http://103.95.24.37:880/fhws.m3u8
+凤凰中文,http://27.154.214.56:8888/rtp/239.61.2.184:9092
+凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+凤凰资讯,http://27.154.214.56:8888/rtp/239.61.2.183:9086
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.1.4:2191
 凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
@@ -501,7 +513,7 @@ Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 广东珠江,http://113.118.13.196:808/hls/83/index.m3u8
 广东体育,http://116.21.122.2:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
-纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 
@@ -517,6 +529,7 @@ Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 优漫卡通,http://[2409:8087:1a0a:df::402c]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 优漫卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8
 优漫卡通,http://221.4.143.69:8114/GD_CUCC/G_YOUMAN.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBcnT4RTR3vo5Sylgb4rzeI5vlllPQgTswHZzzJteQdhR&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144613962&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb1ac19f5af9e&FvSeid=88fe5578af1234d3&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=8733&Fsv_chan_hls_se_idx=27&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_YOUMAN&Fsv_CMSID=GD_CUCC
+卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2
 卡酷少儿,http://27.40.16.70:8114/GD_CUCC/G_KAKU.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUJYjwUwuMbzhEFyJQU3SdR0wYfOoW%2FAgXsanCgwbcdt&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144387876&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eafe784042b04&FvSeid=88fe5578af13cec3&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3131&Fsv_chan_hls_se_idx=27&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_KAKU&Fsv_CMSID=GD_CUCC
 
 🌸| 电影频道,#genre#
