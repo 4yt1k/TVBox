@@ -131,9 +131,9 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico" group-title="⛵｜港•澳•台",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-name="BloombergAsiaEvent" tvg-logo="https://www.bloomberg.com/favicon-black.png" group-title="⛵｜港•澳•台",AsiaEvent
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-name="BloombergAsiaEvent" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/m3u/bloomberg.png" group-title="⛵｜港•澳•台",AsiaEvent
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-name="BloombergAsia" tvg-logo="https://www.bloomberg.com/favicon-black.png" group-title="⛵｜港•澳•台",Asia
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-name="BloombergAsia" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/m3u/bloomberg.png" group-title="⛵｜港•澳•台",Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-name="BBCNewsAsia" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/m3u/bbc.png" group-title="⛵｜港•澳•台",BBC Asia
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
