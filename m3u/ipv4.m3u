@@ -301,21 +301,21 @@ http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 http://14.121.146.163:554/udp/239.253.43.21:5146
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🌏｜央视频道",CCTV_央视台球
 http://14.121.146.163:554/udp/239.253.43.11:5146
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://175.146.120.43:8888/rtp/232.0.0.45:1234
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://istore4.qnas.net:8889/udp/226.0.2.227:9728
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://14.121.146.163:554/udp/239.253.43.26:5146
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://111.226.119.230:9999/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://106.115.27.61:9999/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
 http://106.115.25.180:9999/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🌏｜央视频道",CCTV_第一剧场
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🌏｜央视频道",CCTV_第一剧场
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🌏｜央视频道",CCTV_第一剧场
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🌏｜央视频道",CCTV_第一剧场
 http://58.19.13.92:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🌏｜央视频道",CCTV_世界地理
 http://218.67.173.165:8888/udp/225.1.2.171:5002
