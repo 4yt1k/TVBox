@@ -150,13 +150,10 @@ CCTV-5+体育赛事 ,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txi
 CCTV_风云足球 ,http://gzly.hkychina.com:6002/udp/239.252.219.96:5140
 CCTV_央视台球 ,http://14.121.146.163:554/udp/239.253.43.21:5146
 CCTV_央视台球 ,http://14.121.146.163:554/udp/239.253.43.11:5146
-CCTV_风云剧场 ,http://175.146.120.43:8888/rtp/232.0.0.45:1234
 CCTV_风云剧场 ,http://istore4.qnas.net:8889/udp/226.0.2.227:9728
 CCTV_风云剧场 ,http://14.121.146.163:554/udp/239.253.43.26:5146
 CCTV_风云剧场 ,http://106.115.25.180:9999/tsfile/live/1024_1.m3u8
-CCTV_第一剧场 ,http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 CCTV_第一剧场 ,http://58.19.13.92:9901/tsfile/live/1035_1.m3u8
-CCTV_世界地理 ,http://218.67.173.165:8888/udp/225.1.2.171:5002
 CCTV_世界地理 ,http://60.2.190.206:4000/rtp/239.253.92.131:6113
 CCTV_世界地理 ,http://gmxw.7766.org:808/hls/11/index.m3u8
 CCTV_4K超高清 ,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -284,7 +281,6 @@ CCTV_4K超高清 ,http://159.75.85.63:5679/cctv4k.php
 贵州卫视 ,http://106.115.25.165:9999/tsfile/live/0120_1.m3u8
 贵州卫视 ,http://106.115.25.33:9999/tsfile/live/0120_1.m3u8
 贵州卫视 ,http://www.furymax.top:85/rtp/239.69.1.150:10536
-贵州卫视 ,http://111.75.151.236:50085/newlive/live/hls/45/live.m3u8
 贵州卫视 ,http://222.241.154.37:9901/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南卫视 ,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
