@@ -357,10 +357,12 @@ CETV-1 ,http://120.87.97.245:8114/GD_CUCC/G_CETV-1-HQ.m3u8?Authinfo=56fbZo0WT6rf
 寰宇新闻 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 亚洲新闻 ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻 ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-Fox News ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-AsiaEvent ,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-Asia ,https://bloomberg.com/media-manifest/streams/asia.m3u8
-BBC Asia ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+Fox美国 ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+CNN美国 ,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+NBC美国 ,https://i.mjh.nz/SamsungTVPlus/ITBC4000028E.m3u8
+彭博美国 ,https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+彭博亚太 ,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+BBC美国 ,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 ⚽|体育频道,#genre#
 广东珠江 ,http://183.6.110.241:9901/hls/1050/index.m3u8
@@ -374,9 +376,11 @@ BBC Asia ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs1
 广东珠江 ,http://113.118.13.196:808/hls/83/index.m3u8
 广东体育 ,http://116.21.122.2:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育 ,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
-纬来体育 ,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育 ,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育 ,https://cloud.yumixiu768.com/tmp/123.m3u8
 咪咕体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+ESPN ,http://143.244.60.30/ESPN/index.m3u8
+Fox体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 
 🌈| 少儿动画,#genre#
 金鹰卡通 ,http://120.87.97.246:8114/GD_CUCC/G_JINYING.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdaYfWbCxi7yWgg5LPV9HbRrY4eqsfS0BulttoTnC393&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144289667&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eaf2316dfe91b&FvSeid=88fe5578af124583&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3165&Fsv_chan_hls_se_idx=30&Fsv_TBt=2287152&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JINYING&Fsv_CMSID=GD_CUCC
@@ -400,3 +404,4 @@ CHC家庭影院 ,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 超级电视剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 精品纪录 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+瑜伽舞蹈 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
