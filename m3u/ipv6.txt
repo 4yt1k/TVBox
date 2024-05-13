@@ -498,10 +498,12 @@ CETV-1 ,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3
 寰宇新闻 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 亚洲新闻 ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻 ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-Fox News ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-AsiaEvent ,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-Asia ,https://bloomberg.com/media-manifest/streams/asia.m3u8
-BBC Asia ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+Fox美国 ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+CNN美国 ,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+NBC美国 ,https://i.mjh.nz/SamsungTVPlus/ITBC4000028E.m3u8
+彭博美国 ,https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+彭博亚太 ,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+BBC美国 ,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 ⚽|体育频道,#genre#
 广东珠江 ,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
@@ -521,6 +523,8 @@ BBC Asia ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs1
 五星体育 ,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 咪咕体育 ,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+ESPN ,http://143.244.60.30/ESPN/index.m3u8
+Fox体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 
 🌈| 少儿动画,#genre#
 金鹰卡通 ,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
@@ -557,3 +561,4 @@ CHC家庭影院 ,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 超级电视剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 精品纪录 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+瑜伽舞蹈 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
