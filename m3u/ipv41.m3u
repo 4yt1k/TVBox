@@ -168,9 +168,9 @@ http://27.40.16.70:8114/GD_CUCC/G_KAKU.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUJ
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://mtw.so/5NPX0U
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🌸| 影剧频道",CHC高清电影
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+http://183.92.4.163:4000/udp/228.0.0.233:6108
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+http://117.10.59.110:8888/newlive/live/hls/55/live.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
 http://60.223.69.194:10000/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/家庭剧场.png" group-title="🌸| 影剧频道",家庭剧场
