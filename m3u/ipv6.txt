@@ -410,7 +410,7 @@ BBC美国 ,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 广东体育 ,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
 纬来体育 ,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育 ,https://cloud.yumixiu768.com/tmp/123.m3u8
-五星体育 ,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
+五星体育 ,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 咪咕体育 ,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 ESPN ,http://143.244.60.30/ESPN/index.m3u8
