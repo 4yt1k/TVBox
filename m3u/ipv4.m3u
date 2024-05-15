@@ -507,7 +507,7 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title="🌐｜国际频道",俄罗斯RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://chinese.aljazeera.net/static/media/aj-footer-logo.bac952ad.svg" group-title="🌐｜国际频道",卡塔尔半岛
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/aljazeera.png" group-title="🌐｜国际频道",卡塔尔半岛
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="⚽|体育频道",广东珠江
 http://183.6.110.241:9901/hls/1050/index.m3u8
