@@ -288,12 +288,10 @@ Fox体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 CHC高清电影 ,http://183.184.124.60:8084/rtp/226.0.2.93:8004
 CHC高清电影 ,http://183.92.4.163:4000/udp/228.0.0.233:6108
 CHC高清电影 ,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-CHC动作电影 ,http://117.10.59.110:8888/newlive/live/hls/55/live.m3u8
 CHC动作电影 ,http://183.184.124.60:8084/rtp/226.0.2.94:8012
 CHC动作电影 ,http://115.60.241.249:2000/rtp/225.1.4.208:1261
 CHC家庭影院 ,http://60.223.69.194:10000/rtp/226.0.2.240:9820
 CHC家庭影院 ,http://183.184.124.60:8084/rtp/226.0.2.240:9820
-CHC家庭影院 ,http://117.10.59.110:8888/newlive/live/hls/53/live.m3u8
 黑莓电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 家庭剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 惊悚悬疑 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
