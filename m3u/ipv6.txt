@@ -132,7 +132,6 @@ CCTV_央视台球 ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63
 CCTV_央视台球 ,http://14.121.146.163:554/udp/239.253.43.21:5146
 CCTV_央视台球 ,http://14.121.146.163:554/udp/239.253.43.11:5146
 CCTV_风云剧场 ,http://14.121.146.163:554/udp/239.253.43.26:5146
-CCTV_风云剧场 ,http://20240504.shunyue1809.com:6321/udp/239.49.8.89:8000
 CCTV_第一剧场 ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 CCTV_第一剧场 ,http://58.19.13.92:9901/tsfile/live/1035_1.m3u8
 CCTV_世界地理 ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
@@ -370,9 +369,7 @@ CETV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 凤凰中文 ,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰中文 ,http://103.95.24.37:880/fhws.m3u8
 凤凰中文 ,http://27.154.214.56:8888/rtp/239.61.2.184:9092
-凤凰中文 ,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰资讯 ,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯 ,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
 凤凰资讯 ,http://27.154.214.56:8888/rtp/239.61.2.183:9086
 凤凰资讯 ,http://103.95.24.37:880/fhzx.m3u8
 凤凰资讯 ,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
@@ -407,7 +404,6 @@ BBC美国 ,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 广东体育 ,http://116.21.122.2:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育 ,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
 纬来体育 ,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来体育 ,https://cloud.yumixiu768.com/tmp/123.m3u8
 五星体育 ,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 咪咕体育 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕体育 ,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
@@ -437,8 +433,8 @@ Fox体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 卡酷少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 
 🌸| 影剧频道,#genre#
-重温经典 ,http://116.11.156.112:1188/tsfile/live/1034_1.m3u8
 重温经典 ,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典 ,http://116.11.156.112:1188/tsfile/live/1034_1.m3u8
 重温经典 ,http://116.11.157.30:1188/tsfile/live/1034_1.m3u8
 CHC高清电影 ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 CHC高清电影 ,http://183.184.124.60:8084/rtp/226.0.2.93:8004
