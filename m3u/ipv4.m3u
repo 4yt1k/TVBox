@@ -503,7 +503,7 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/bbc.png" group-title="🌐｜国际频道",英国BBC
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="SKY" tvg-name="SKY" tvg-logo="https://news.sky.com/resources/sky-spectrum-logo.png" group-title="🌐｜国际频道",英国天空新闻
+#EXTINF:-1 tvg-id="SKY" tvg-name="SKY" tvg-logo="https://news.sky.com/resources/sky-spectrum-logo.png" group-title="🌐｜国际频道",天空新闻
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title="🌐｜国际频道",俄罗斯RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -537,8 +537,20 @@ https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="⚽|体育频道",ESPN
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="FoxSport" tvg-name="FoxSport" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico" group-title="⚽|体育频道",Fox体育
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico" group-title="⚽|体育频道",Fox体育
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.tntdrama.com/themes/custom/ten_theme/images/tnt/tnt_logo_top.png" group-title="⚽|体育频道",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="CBSSports" tvg-name="CBSSports" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CBSSports.png" group-title="⚽|体育频道",CBS Sports
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-id="beIN" tvg-name="beIN" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/bein.png" group-title="⚽|体育频道",beIN Sports
+https://lnc-bein.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN" tvg-name="beIN" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/bein.png" group-title="⚽|体育频道",beIN Sports
+https://i.mjh.nz/SamsungTVPlus/CABA8000043F.m3u8
+#EXTINF:-1 tvg-id="fubo" tvg-name="fubo" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/Fubo_Icon_SM_1200x720_RGB.png" group-title="⚽|体育频道",fubo Sports
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="fubo" tvg-name="fubo" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/Fubo_Icon_SM_1200x720_RGB.png" group-title="⚽|体育频道",fubo Sports
+http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/96261.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
