@@ -396,6 +396,7 @@ NEWSMAX,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 BBC,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 SKY,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
