@@ -177,7 +177,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico" group-title="⚽|体育频道",Fox体育
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.tntdrama.com/themes/custom/ten_theme/images/tnt/tnt_logo_top.png" group-title="⚽|体育频道",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/tnt.jpg" group-title="⚽|体育频道",TNT
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-id="CBSSports" tvg-name="CBSSports" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CBSSports.png" group-title="⚽|体育频道",CBS Sports
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
