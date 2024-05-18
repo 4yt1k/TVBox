@@ -421,8 +421,8 @@ ESPN,http://143.244.60.30/ESPN/index.m3u8
 FoxSports,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 TNT,http://170.254.18.106/TNT/index.m3u8
 CBSSports,https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-beIN,https://i.mjh.nz/SamsungTVPlus/CABA8000043F.m3u8
 beIN,https://lnc-bein.tubi.video/playlist.m3u8
+beIN,https://i.mjh.nz/SamsungTVPlus/CABA8000043F.m3u8
 beINSports3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
 fubo,https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 fubo,http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/96261.m3u8
