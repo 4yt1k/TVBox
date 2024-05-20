@@ -196,11 +196,11 @@ http://27.40.16.70:8114/GD_CUCC/G_KAKU.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUJ
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🌸| 影剧频道",CHC高清电影
-http://60.223.69.194:10000/rtp/226.0.2.93:8004
+https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
-http://60.223.69.194:10000/rtp/226.0.2.94:8012
+https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
-http://60.223.69.194:10000/rtp/226.0.2.240:9820
+https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/家庭剧场.png" group-title="🌸| 影剧频道",家庭剧场
