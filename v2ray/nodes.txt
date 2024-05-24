@@ -1,0 +1,1 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@27.50.48.108:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#27.50.48.108
