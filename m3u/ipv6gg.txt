@@ -364,25 +364,6 @@ CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
-🌐｜国际频道,#genre#
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-NBC,https://i.mjh.nz/SamsungTVPlus/ITBC4000028E.m3u8
-NBC,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-ABC,http://143.244.60.30/ABC_EAST/index.m3u8
-CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-Bloomberg,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-NEWSMAX,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-BBC,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-SKY,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 ⚽|体育频道,#genre#
 广东体育,http://116.21.122.2:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
