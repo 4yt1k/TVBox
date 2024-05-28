@@ -296,7 +296,7 @@ CETV1,http://120.87.97.245:8114/GD_CUCC/G_CETV-1-HQ.m3u8?Authinfo=56fbZo0WT6rfM%
 CETV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 
-🧭｜港•澳•台,#genre#
+🚩｜港•澳•台,#genre#
 凤凰中文,http://113.64.145.61:8081/hls/37/index.m3u8
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
