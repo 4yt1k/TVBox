@@ -175,6 +175,12 @@ CCTV_4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://221.4.143.70:8114/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBfgbSbSCTYnboG1IAsnN%2B8QbxCCQgM3uMjnKYti9%2B8SO&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714143008102&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea51fdd3f6d5d&FvSeid=88fe5578aef920e0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9857&Fsv_chan_hls_se_idx=51&Fsv_TBt=8464720&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GUANGDONG-CQ&Fsv_CMSID=GD_CUCC
 广东卫视,http://222.241.154.37:9901/tsfile/live/23038_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+广东珠江,http://183.6.110.241:9901/hls/1050/index.m3u8
+广东珠江,http://183.6.110.242:9901/hls/1050/index.m3u8
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
+广东珠江,http://mom.coms.hk:9901/tsfile/live/1007_1.m3u8
+广东珠江,http://113.118.13.196:808/hls/83/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
@@ -342,12 +348,6 @@ RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 ⚽|体育频道,#genre#
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
-广东珠江,http://183.6.110.241:9901/hls/1050/index.m3u8
-广东珠江,http://183.6.110.242:9901/hls/1050/index.m3u8
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
-广东珠江,http://mom.coms.hk:9901/tsfile/live/1007_1.m3u8
-广东珠江,http://113.118.13.196:808/hls/83/index.m3u8
 广东体育,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
