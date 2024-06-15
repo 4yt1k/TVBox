@@ -36,17 +36,17 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
+http://125.94.180.169:22222/udp/239.21.0.70:3620
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🌏｜央视频道",CCTV_央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
+http://111.178.99.38:9999/udp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🌏｜央视频道",CCTV_风云音乐
-http://60.6.255.8:2180/live/fyyy/index.m3u8
+http://125.94.180.169:22222/udp/239.21.0.79:3656
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
-http://60.6.255.8:2180/live/fyjc/index.m3u8
+http://125.94.180.169:22222/udp/239.21.0.76:3644
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🌏｜央视频道",CCTV_第一剧场
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
+http://111.178.99.38:9999/udp/239.69.1.74:10084
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🌏｜央视频道",CCTV_世界地理
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
+http://111.178.99.38:9999/udp/239.69.1.91:10186
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🌏｜央视频道",CCTV_4K超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV_4KUHD" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🌏｜央视频道",CCTV_4KUHD
@@ -132,7 +132,7 @@ http://113.64.145.105:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="🚩｜港•澳•台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="⚽|体育频道",广东体育
-http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
+http://125.94.180.169:22222/udp/239.20.0.97:3012
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽|体育频道",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="⚽|体育频道",咪咕体育
@@ -150,11 +150,11 @@ http://[2409:8087:1a0a:df::402c]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🌸| 影剧频道",CHC高清电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+http://221.237.92.139:9999/udp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+http://221.237.92.139:9999/udp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+http://221.237.92.139:9999/udp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/家庭剧场.png" group-title="🌸| 影剧频道",家庭剧场
