@@ -36,17 +36,17 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🌏｜央视频道",CCTV_风云足球
-http://61.55.47.144:4022/udp/239.253.92.110:8061
+http://27.184.67.55:1024/rtp/239.254.200.97:6231
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🌏｜央视频道",CCTV_央视台球
 http://27.184.67.55:1024/rtp/239.254.201.171:7176
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🌏｜央视频道",CCTV_风云音乐
-http://61.55.47.144:4022/udp/239.253.92.111:8060
+http://27.184.67.55:1024/rtp/239.254.200.96:6230
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🌏｜央视频道",CCTV_风云剧场
-http://61.55.47.144:4022/udp/239.253.92.22:6073
+http://27.184.67.55:1024/rtp/239.254.200.94:6228
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🌏｜央视频道",CCTV_第一剧场
-http://61.55.47.144:4022/udp/239.253.92.18:6079
+http://27.184.67.55:1024/rtp/239.254.200.93:6227
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🌏｜央视频道",CCTV_世界地理
-http://61.55.47.144:4022/udp/239.253.92.113:8066
+http://27.184.67.55:1024/rtp/239.254.200.102:6236
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🌏｜央视频道",CCTV_4K超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV_4KUHD" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🌏｜央视频道",CCTV_4KUHD
