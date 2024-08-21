@@ -58,12 +58,10 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-风云足球,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-央视台球,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
-CCTV风云音乐,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
-CCTV风云剧场,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
-CCTV第一剧场,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
-世界地理,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
+风云足球,http://154.12.55.21/zb/zb.php?id=239.253.93.254:6432
+CCTV风云音乐,http://154.12.55.21/zb/zb.php?id=239.253.93.253:6431
+CCTV风云剧场,http://154.12.55.21/zb/zb.php?id=239.253.93.251:6429
+CCTV第一剧场,http://154.12.55.21/zb/zb.php?id=239.253.93.138:6428
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV_4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
@@ -199,17 +197,17 @@ CETV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 
 🚩｜港•澳•台,#genre#
+凤凰中文,http://171.88.113.1:4022/udp/239.93.0.162:2192
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+凤凰资讯,http://171.88.113.1:4022/udp/239.93.1.4:2191
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 🌐｜国际频道,#genre#
-CGTN,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
+CGTN,http://114.242.32.17:2121/rtp/239.3.1.215:4220
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -224,11 +222,6 @@ RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 ⚽|体育频道,#genre#
-五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
-五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
-五星体育,https://epg.pw/stream/4ef66089dbf5be44fbd9ce48d16aa33ea8182fa8c54cbf5b0b57617fb2a0f114.m3u8
-五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
-五星体育,https://epg.pw/stream/4881181ce7c229726cc597354dcd8ac833357167c1f7af8b48b2d08267400041.m3u8
 咪咕体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 FoxSports,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
@@ -253,19 +246,18 @@ eurosport2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 
 🌸| 影剧频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC高清电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
-CHC高清电影,https://epg.pw/stream/513b5aea95520a37ae24d3ef1be5f02e0bbb0b3b937c0bb6d4154722a9a2d8fd.m3u8
-CHC高清电影,https://epg.pw/stream/212b925c47a28994443e012c65356110e90af22c555f8e3f40c036614fec7f6d.m3u8
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.m3u8
-CHC动作电影,https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
-CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
-CHC家庭影院,https://epg.pw/stream/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.m3u8
-CHC家庭影院,https://epg.pw/stream/71f06953d8268da88185671f0ad549396ea57fc4dd5c48bdfb0b5d59068202d5.m3u8
-CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
+CHC高清电影,http://61.185.200.55:10000/rtp/239.112.205.206:5140
+CHC高清电影,http://183.189.213.105:8000/rtp/226.0.2.93:8004
+CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
+CHC高清电影,http://106.59.3.147:55555/udp/239.200.201.34:8148
+CHC动作电影,http://61.185.200.55:10000/rtp/239.112.205.207:5140
+CHC动作电影,http://183.189.213.105:8000/rtp/226.0.2.94:8012
+CHC动作电影,http://www.yao87.com:4022/udp/239.76.245.243:1234
+CHC动作电影,http://106.59.3.147:55555/udp/239.200.201.31:8144
+CHC家庭影院,http://61.185.200.55:10000/rtp/239.112.205.205:5140
+CHC家庭影院,http://183.189.213.105:8000/rtp/226.0.2.240:9820
+CHC家庭影院,http://www.yao87.com:4022/udp/239.76.245.241:1234
+CHC家庭影院,http://106.59.3.147:55555/udp/239.200.201.30:8140
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -281,5 +273,3 @@ CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bd
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 精品纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-瑜伽舞蹈,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-瑜伽舞蹈,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
