@@ -191,8 +191,12 @@ CETV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 
 🚩｜港•澳•台,#genre#
+凤凰中文,http://giwon.ddns.net:5555/udp/239.93.0.162:2192
+凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰中文,http://www.lebaobei.top:6868/udp/239.255.30.50:8231
 凤凰中文,http://122.224.232.218:8888/rtp/233.50.200.191:5140
+凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
+凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰资讯,http://www.lebaobei.top:6868/udp/239.255.30.70:8231
 凤凰资讯,http://171.108.239.126:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
