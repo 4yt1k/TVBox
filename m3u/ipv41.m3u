@@ -75,6 +75,8 @@ http://106.59.3.147:55555/udp/239.200.200.69:1234
 http://106.59.3.147:55555/udp/239.200.200.53:8280
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
 http://106.59.3.147:55555/udp/239.200.201.35:8768
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="❄️｜卫视频道",广东珠江
+http://14.112.86.108:8008/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="❄️｜卫视频道",湖北卫视
 http://106.59.3.147:55555/udp/239.200.200.68:8772
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="❄️｜卫视频道",四川卫视
