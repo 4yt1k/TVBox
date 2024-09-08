@@ -108,9 +108,9 @@ http://27.24.20.43:9999/udp/239.69.1.108:10286
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="❄️｜卫视频道",江西卫视
 http://27.24.20.43:9999/udp/239.69.1.126:10394
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
-http://125.123.144.154:4022/rtp/233.50.201.55:5140
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="❄️｜卫视频道",三沙卫视
-http://27.24.20.43:9999/udp/239.69.1.171:10662
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="❄️｜卫视频道",辽宁卫视
 http://27.24.20.43:9999/udp/239.69.1.71:10066
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="❄️｜卫视频道",吉林卫视
@@ -129,6 +129,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="❄️｜卫视频道",CETV1
 http://106.59.3.147:55555/udp/239.200.201.49:8756
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
+https://stream1.freetv.fun/huan-yu-xin-wen-6.ctv
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
 http://v.189910.xyz:8900/live.m3u8?c=1
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
