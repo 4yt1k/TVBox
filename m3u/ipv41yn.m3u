@@ -72,7 +72,7 @@ http://106.59.3.147:55555/udp/239.200.200.67:8776
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="❄️｜卫视频道",天津卫视
 http://106.59.3.147:55555/udp/239.200.200.69:1234
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="❄️｜卫视频道",广西卫视
-http://106.59.3.147:55555/udp/239.200.200.53:8280
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
 http://106.59.3.147:55555/udp/239.200.201.35:8768
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="❄️｜卫视频道",广东珠江
@@ -82,7 +82,7 @@ http://106.59.3.147:55555/udp/239.200.200.68:8772
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="❄️｜卫视频道",四川卫视
 http://106.59.3.147:55555/udp/239.200.201.137:8796
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="❄️｜卫视频道",重庆卫视
-http://106.59.3.147:55555/udp/239.200.200.49:8264
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="❄️｜卫视频道",贵州卫视
 http://106.59.3.147:55555/udp/239.200.201.119:8788
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="❄️｜卫视频道",云南卫视
@@ -94,13 +94,13 @@ http://106.59.3.147:55555/udp/239.200.200.12:8844
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="❄️｜卫视频道",河南卫视
 http://106.59.3.147:55555/udp/239.200.201.158:8412
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
-http://106.59.3.147:55555/udp/239.200.200.56:8292
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010114/1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
-http://106.59.3.147:55555/udp/239.200.200.55:8288
+http://61.185.200.157:10000/rtp/239.111.205.35:5140
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
 http://106.59.3.147:55555/udp/239.200.200.186:8356
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
-http://106.59.3.147:55555/udp/239.200.200.60:8308
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010110/1.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="❄️｜卫视频道",安徽卫视
 http://106.59.3.147:55555/udp/239.200.200.129:8720
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="❄️｜卫视频道",东南卫视
@@ -118,13 +118,13 @@ http://106.59.3.147:55555/udp/239.200.201.127:8792
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="❄️｜卫视频道",黑龙江卫视
 http://106.59.3.147:55555/udp/239.200.200.66:8016
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
-http://106.59.3.147:55555/udp/239.200.200.58:8300
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="❄️｜卫视频道",内蒙古卫视
-http://106.59.3.147:55555/udp/239.200.200.57:8296
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
-http://106.59.3.147:55555/udp/239.200.200.61:8312
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010123/1.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
-http://106.59.3.147:55555/udp/239.200.200.62:8316
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="❄️｜卫视频道",CETV1
