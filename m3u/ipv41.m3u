@@ -1,40 +1,40 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🌏｜央视频道",CCTV-1综合
-http://125.123.144.154:4022/rtp/233.50.201.118:5140
+http://14.19.179.71:4022/udp/239.77.1.17:5146
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🌏｜央视频道",CCTV-2财经
-http://125.123.144.154:4022/rtp/233.50.201.119:5140
+http://14.19.179.71:4022/udp/239.77.0.137:5146
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🌏｜央视频道",CCTV-3综艺
-http://125.123.144.154:4022/rtp/233.50.201.196:5140
+http://14.19.179.71:4022/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🌏｜央视频道",CCTV-4中文国际
-http://125.123.144.154:4022/rtp/233.50.200.101:5140
+http://14.19.179.71:4022/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🌏｜央视频道",CCTV-5体育
-http://125.123.144.154:4022/rtp/233.50.201.197:5140
+http://14.19.179.71:4022/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🌏｜央视频道",CCTV-6电影
-http://125.123.144.154:4022/rtp/233.50.201.198:5140
+http://14.19.179.71:4022/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🌏｜央视频道",CCTV-7军事
-http://125.123.144.154:4022/rtp/233.50.201.120:5140
+http://14.19.179.71:4022/udp/239.77.1.159:5146
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🌏｜央视频道",CCTV-8电视剧
-http://125.123.144.154:4022/rtp/233.50.201.199:5140
+http://14.19.179.71:4022/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🌏｜央视频道",CCTV-9纪录
-http://125.123.144.154:4022/rtp/233.50.201.121:5140
+http://14.19.179.71:4022/udp/239.77.1.160:5146
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🌏｜央视频道",CCTV-10科教
-http://125.123.144.154:4022/rtp/233.50.201.122:5140
+http://14.19.179.71:4022/udp/239.77.1.113:5146
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🌏｜央视频道",CCTV-11戏曲
-http://27.24.20.43:9999/udp/239.69.1.154:10560
+http://14.19.179.71:4022/udp/239.77.1.238:5146
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🌏｜央视频道",CCTV-12社会与法
-http://125.123.144.154:4022/rtp/233.50.201.123:5140
+http://14.19.179.71:4022/udp/239.77.0.136:5146
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🌏｜央视频道",CCTV-13新闻
-http://125.123.144.154:4022/rtp/233.50.201.246:5140
+http://14.19.179.71:4022/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🌏｜央视频道",CCTV-14少儿
-http://125.123.144.154:4022/rtp/233.50.201.124:5140
+http://14.19.179.71:4022/udp/239.77.0.133:5146
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="🌏｜央视频道",CCTV-15音乐
-http://27.24.20.43:9999/udp/239.69.1.155:10566
+http://14.19.179.71:4022/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
-http://125.123.144.154:4022/rtp/233.50.201.63:5140
+http://14.19.179.71:4022/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
-http://125.123.144.154:4022/rtp/233.50.200.113:5140
+http://14.19.179.71:4022/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
-http://125.123.144.154:4022/rtp/233.50.201.220:5140
+http://14.19.179.71:4022/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
