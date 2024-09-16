@@ -72,7 +72,7 @@ http://61.190.129.195:8686/rtp/238.1.78.156:7120
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="❄️｜卫视频道",天津卫视
 http://61.190.129.195:8686/rtp/238.1.78.20:6088
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="❄️｜卫视频道",广西卫视
-http://27.24.20.43:9999/udp/239.69.1.191:10788
+http://113.100.72.213:8899/udp/239.77.0.139:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
 http://61.190.129.195:8686/rtp/238.1.78.161:7160
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="❄️｜卫视频道",珠江高清
