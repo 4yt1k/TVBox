@@ -36,23 +36,23 @@ http://s.cdhongyuan.cn:4022/udp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://s.cdhongyuan.cn:4022/udp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://60.10.225.157:555/rtp/239.253.93.254:6432
+http://s.cdhongyuan.cn:4022/udp/239.93.0.235:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
-http://60.10.225.157:555/rtp/239.253.93.231:6409
+http://s.cdhongyuan.cn:4022/udp/239.93.0.218:5140
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-http://60.10.225.157:555/rtp/239.253.93.253:6431
+http://s.cdhongyuan.cn:4022/udp/239.93.0.224:5140
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://60.10.225.157:555/rtp/239.253.93.251:6429
+http://s.cdhongyuan.cn:4022/udp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-http://60.10.225.157:555/rtp/239.253.93.138:6428
+http://s.cdhongyuan.cn:4022/udp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://60.10.225.157:555/rtp/239.253.93.252:6430
+http://s.cdhongyuan.cn:4022/udp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="🎱｜数字频道",兵器科技
-http://60.10.225.157:555/rtp/239.253.93.47:6435
+http://s.cdhongyuan.cn:4022/udp/239.93.1.235:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="🎱｜数字频道",女性时尚
-http://60.10.225.157:555/rtp/239.253.92.144:6114
+http://s.cdhongyuan.cn:4022/udp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
-http://60.10.225.157:555/rtp/239.253.92.131:6113
+http://s.cdhongyuan.cn:4022/udp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
 http://pt.aisx.cc:99/zb/cqyx.php?id=cctv4k
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",4K超高清
