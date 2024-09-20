@@ -55,8 +55,8 @@ http://s.cdhongyuan.cn:4022/udp/239.93.42.62:5140
 http://s.cdhongyuan.cn:4022/udp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
 http://pt.aisx.cc:99/zb/cqyx.php?id=cctv4k
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",4K超高清
-http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",UHDv6
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="❄️｜卫视频道",江苏卫视
