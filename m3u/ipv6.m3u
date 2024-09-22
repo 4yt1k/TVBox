@@ -480,13 +480,13 @@ http://tv.sd.cn/sichuan?id=239.93.1.9:2192
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
 http://146.56.153.245:20121/bysid/258
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
-http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
 http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
-http://tv.sd.cn/sichuan?id=239.93.1.4:2191
+http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
 http://tv.sd.cn/sichuan?id=239.93.0.118:2191
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
+http://tv.sd.cn/sichuan?id=239.93.1.4:2191
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
 http://146.56.153.245:20121/bysid/257
 #EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="🚩｜港•澳•台",第一卫视
