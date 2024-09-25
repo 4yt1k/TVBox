@@ -134,9 +134,9 @@ http://v.189910.xyz:8900/live.m3u8?c=1
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
-http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
+http://tv.sd.cn/sichuan?id=239.93.0.118:2191
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
-http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
+http://tv.sd.cn/sichuan?id=239.93.0.162:2192
 #EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="🚩｜港•澳•台",第一卫视
 http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="🚩｜港•澳•台",香港卫视
