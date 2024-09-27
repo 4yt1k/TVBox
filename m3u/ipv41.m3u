@@ -36,23 +36,23 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
+http://121.227.3.248:5555/rtp/239.49.8.85:8000
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
-http://www.lizhinas.top:8688/rtp/239.252.219.80:5140
+http://121.227.3.248:5555/rtp/239.49.8.32:8000
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-http://www.lizhinas.top:8688/rtp/239.252.219.87:5140
+http://121.227.3.248:5555/rtp/239.49.8.92:8000
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://www.lizhinas.top:8688/rtp/239.252.219.89:5140
+http://121.227.3.248:5555/rtp/239.49.8.89:8000
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-http://www.lizhinas.top:8688/rtp/239.252.219.86:5140
+http://121.227.3.248:5555/rtp/239.49.8.94:8000
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://www.lizhinas.top:8688/rtp/239.252.219.90:5140
+http://121.227.3.248:5555/rtp/239.49.8.91:8000
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="🎱｜数字频道",兵器科技
-http://www.lizhinas.top:8688/rtp/239.252.219.98:5140
+http://121.227.3.248:5555/rtp/239.49.8.88:8000
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="🎱｜数字频道",女性时尚
-http://www.lizhinas.top:8688/rtp/239.252.219.94:5140
+http://121.227.3.248:5555/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
-http://www.lizhinas.top:8688/rtp/239.252.219.93:5140
+http://121.227.3.248:5555/rtp/239.49.8.87:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
 http://122.5.220.138:4022/udp/239.253.236.122:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",UHDv6
