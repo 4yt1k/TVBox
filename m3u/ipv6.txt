@@ -249,13 +249,13 @@ aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 🌸| 影剧频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-CHC家庭影院,http://175.3.233.173:8888/rtp/239.76.245.241:1234
+CHC家庭影院,http://219.139.29.60:8888/rtp/239.69.1.243:11100
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-CHC影迷电影,http://175.3.233.173:8888/rtp/239.76.245.242:1234
+CHC影迷电影,http://219.139.29.60:8888/rtp/239.69.1.241:11088
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-CHC动作电影,http://175.3.233.173:8888/rtp/239.76.245.243:1234
+CHC动作电影,http://219.139.29.60:8888/rtp/239.69.1.242:11094
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
