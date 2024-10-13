@@ -36,23 +36,23 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://222.191.131.254:8088/rtp/239.49.8.85:8000
+http://121.224.50.39:5555/rtp/239.49.8.85:8000
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
-http://222.191.131.254:8088/rtp/239.49.8.32:8000
+http://121.224.50.39:5555/rtp/239.49.8.32:8000
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-http://222.191.131.254:8088/rtp/239.49.8.92:8000
+http://121.224.50.39:5555/rtp/239.49.8.92:8000
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://222.191.131.254:8088/rtp/239.49.8.89:8000
+http://121.224.50.39:5555/rtp/239.49.8.89:8000
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-http://222.191.131.254:8088/rtp/239.49.8.94:8000
+http://121.224.50.39:5555/rtp/239.49.8.94:8000
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://222.191.131.254:8088/rtp/239.49.8.91:8000
+http://121.224.50.39:5555/rtp/239.49.8.91:8000
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="🎱｜数字频道",兵器科技
-http://222.191.131.254:8088/rtp/239.49.8.88:8000
+http://121.224.50.39:5555/rtp/239.49.8.88:8000
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="🎱｜数字频道",女性时尚
-http://222.191.131.254:8088/rtp/239.49.8.93:8000
+http://121.224.50.39:5555/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
-http://222.191.131.254:8088/rtp/239.49.8.87:8000
+http://121.224.50.39:5555/rtp/239.49.8.87:8000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
 http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014260/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="❄️｜卫视频道",江苏卫视
