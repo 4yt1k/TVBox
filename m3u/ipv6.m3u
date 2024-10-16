@@ -130,11 +130,13 @@ http://121.224.50.39:5555/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
 http://121.224.50.39:5555/rtp/239.49.8.87:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
-http://180.106.30.162:8800/rtp/239.49.0.82:8000
+http://222.184.220.225:55555/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
-http://183.207.248.71/PLTV/4/224/3221228228/index.m3u8
+http://222.95.92.12:4000/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
-http://223.105.252.40/PLTV/4/224/3221228228/index.m3u8
+http://221.226.171.137:4022/rtp/239.49.0.82:8000
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
+http://218.93.156.115:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="🎱｜数字频道",CCTV8K
 http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="🎱｜数字频道",CCTV8K
@@ -151,6 +153,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 http://223.105.252.40/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",4kUHD
 http://183.207.248.71/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",4kUHD
+https://stream1.freetv.fun/cctv4k-2.ctv
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
@@ -431,6 +435,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
+https://stream1.freetv.fun/cctv4k-7.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
