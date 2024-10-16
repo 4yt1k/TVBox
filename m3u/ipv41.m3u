@@ -54,7 +54,7 @@ http://121.224.50.39:5555/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
 http://121.224.50.39:5555/rtp/239.49.8.87:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
-http://183.207.248.71/PLTV/4/224/3221228228/index.m3u8
+http://180.106.30.162:8800/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="🎱｜数字频道",CCTV8K
 http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",UHDv6
@@ -134,9 +134,9 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
-http://223.105.252.40/PLTV/3/224/3221228524/index.m3u8
+http://171.213.199.73:3333/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
-http://223.105.252.40/PLTV/3/224/3221228527/index.m3u8
+http://171.213.199.73:3333/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="🚩｜港•澳•台",第一卫视
 http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="🚩｜港•澳•台",香港卫视
