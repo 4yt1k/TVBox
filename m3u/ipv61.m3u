@@ -54,7 +54,7 @@ http://121.224.50.39:5555/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
 http://121.224.50.39:5555/rtp/239.49.8.87:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
-http://218.93.156.115:8888/rtp/239.49.0.82:8000
+http://121.224.50.39:5555/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="🎱｜数字频道",CCTV8K
 http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/CCTV4KUHD.png" group-title="🎱｜数字频道",4kUHD
