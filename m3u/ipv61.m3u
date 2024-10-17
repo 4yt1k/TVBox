@@ -187,6 +187,14 @@ http://219.140.225.0:5555/rtp/239.69.1.241:11088
 http://219.140.225.0:5555/rtp/239.69.1.242:11094
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="百事通电影" tvg-name="百事通电影" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="🌸| 影剧频道",百事通电影
+http://58.32.43.55:4022/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-id="电影频道" tvg-name="电影频道" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="🌸| 影剧频道",电影频道
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="🌸| 影剧频道",欢笑剧场
+http://58.32.43.55:4022/udp/239.45.1.4:5140
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="🌸| 影剧频道",欢乐剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/家庭剧场.png" group-title="🌸| 影剧频道",家庭剧场
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/惊悚悬疑.png" group-title="🌸| 影剧频道",惊悚悬疑
