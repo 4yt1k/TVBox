@@ -130,7 +130,7 @@ http://171.213.199.73:3333/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
 http://171.213.199.73:3333/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/240px-EBC_News_logo_20150706.jpg" group-title="🚩｜港•澳•台",东森新闻
-http://211.72.65.236:8540/.m3u8
+http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png" group-title="🚩｜港•澳•台",无线新闻
