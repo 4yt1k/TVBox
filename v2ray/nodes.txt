@@ -1,1 +1,13 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@27.50.48.108:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#27.50.48.108
+vless://4a6628eb-662a-43de-829d-9efb013ce849@104.21.114.26:443?encryption=none&security=tls&sni=SubbPB.PaGeS.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=SUbBpB.PagEs.dEv&path=%2FQkE5re8UZJRvA7yB%3Fed%3D2560#BPB-104.21.114.26
+vless://4a6628eb-662a-43de-829d-9efb013ce849@188.114.97.0:443?encryption=none&security=tls&sni=SubbPb.Pages.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=sUbbpB.PaGES.Dev&path=%2FNiM7LMTofPjbDwzo%3Fed%3D2560#BPB-188.114.97.0
+vless://4a6628eb-662a-43de-829d-9efb013ce849@188.114.96.0:443?encryption=none&security=tls&sni=SUBbPb.PAgES.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=sUBbPb.PAgES.dev&path=%2FeQN5JAtrdpB0Pbp6%3Fed%3D2560#BPB-188.114.96.0
+vless://4a6628eb-662a-43de-829d-9efb013ce849@[2a06:98c1:3120::]:443?encryption=none&security=tls&sni=suBbpb.pagEs.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=SUbBpB.PagEs.Dev&path=%2Fa89FdgQnFj8lD2NJ%3Fed%3D2560#BPB-ipv6-1
+vless://4a6628eb-662a-43de-829d-9efb013ce849@[2a06:98c1:3121::]:443?encryption=none&security=tls&sni=subBPB.PAgEs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=SubBPB.pAges.DeV&path=%2Fsc1Z8FA8chGUutpe%3Fed%3D2560#BPB-ipv6-2
+vless://ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2@46.29.166.206:400?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI&type=tcp&headerType=none#46.29.166.206
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.53.14.225:2003?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#152.53.14.225
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.53.13.241:2003?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#152.53.13.241
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.246.81.62:2501?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#194.246.81.62
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.58.56.31:1001?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#2.58.56.31
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#95.164.51.24
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80?encryption=none&security=none&sni=sara193.ir&type=ws&host=sara193.ir&path=%2F#199.232.37.15
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.101:443?encryption=none&security=tls&sni=mefa.ir&allowInsecure=1&type=ws&host=mefa.ir&path=%2F#199.232.5.101
