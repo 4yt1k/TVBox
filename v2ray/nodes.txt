@@ -11,3 +11,10 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.58.56.31:1001?encryption=none&sec
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#95.164.51.24
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80?encryption=none&security=none&sni=sara193.ir&type=ws&host=sara193.ir&path=%2F#199.232.37.15
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.101:443?encryption=none&security=tls&sni=mefa.ir&allowInsecure=1&type=ws&host=mefa.ir&path=%2F#199.232.5.101
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2FTelegram-proxy_mtm%3Fed%3D2048#172.66.44.135
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjE3Mi42NC4xNjYuMTYiLA0KICAiYWRkIjogIjE3Mi42NC4xNjYuMTYiLA0KICAicG9ydCI6ICIyMDk1IiwNCiAgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiaXAxMS42MDE2NzI1Lnh5eiIsDQogICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://4a6628eb-662a-43de-829d-9efb013ce849@172.66.46.249:443?encryption=none&security=tls&sni=SUBbPB.PAGES.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=SubBpB.PAGeS.dev&path=%2FY0XIQUgAiJYjoYQT%3Fed%3D2560#BPB172.66.46.249
+vless://4a6628eb-662a-43de-829d-9efb013ce849@172.66.45.7:443?encryption=none&security=tls&sni=sUbbpb.paGES.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=sUbBpb.pAges.DeV&path=%2FUgXEXoKGf0pdaW5M%3Fed%3D2560#BPB172.66.45.7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.168:443#%E3%80%90SS%E3%80%91156.146.38.168
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.110.102.115:2501?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#%E3%80%90AI%E3%80%9189.110.102.115
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.254.227.37:587?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F#%E3%80%90AI%E3%80%91157.254.227.37
