@@ -37,6 +37,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🎱｜数字频道",劲爆体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="🎱｜数字频道",精品体育
+http://[2409:8087:74d9:21::6]/270000001128/9900000102/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://49.76.180.69:8800/rtp/239.49.8.85:8000
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
@@ -211,7 +213,3 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="🌸| 影剧频道",睛彩青少
 http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV超级体育.png" group-title="🌸| 影剧频道",超级体育
-http://[2409:8087:74d9:21::6]/270000001128/9900000020/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="🌸| 影剧频道",精品体育
-http://[2409:8087:74d9:21::6]/270000001128/9900000102/index.m3u8
