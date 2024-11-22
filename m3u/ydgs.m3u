@@ -8,7 +8,7 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000003/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🌏｜央视频道",CCTV-4中文国际
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226652/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🌏｜央视频道",CCTV-5体育
-http://[2409:8087:74d9:21::6]/270000001128/9900000020/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🌏｜央视频道",CCTV-6电影
 http://[2409:8087:74d9:21::6]/270000001128/9900000006/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🌏｜央视频道",CCTV-7军事
