@@ -209,7 +209,3 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="🌸| 影剧频道",睛彩青少
 http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV超级体育.png" group-title="🌸| 影剧频道",超级体育
-http://[2409:8087:74d9:21::6]/270000001128/9900000020/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="🌸| 影剧频道",精品体育
-http://[2409:8087:74d9:21::6]/270000001128/9900000102/index.m3u8
