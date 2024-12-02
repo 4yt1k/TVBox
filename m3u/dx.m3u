@@ -159,7 +159,7 @@ https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBSNews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png" group-title="🚩｜港•澳•台",TVBSNews
+#EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBSNews" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🚩｜港•澳•台",TVBSNews
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🚩｜港•澳•台",澳视澳门
 http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
@@ -224,7 +224,7 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
 #EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV军旅剧场.png" group-title="🌸| 影剧频道",军旅剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000107/index.m3u8
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/爱情喜剧.png" group-title="🌸| 影剧频道",爱情喜剧
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/超级电视剧.png" group-title="🌸| 影剧频道",超级电视剧
 http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
 #EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/超级电影.png" group-title="🌸| 影剧频道",超级电影
