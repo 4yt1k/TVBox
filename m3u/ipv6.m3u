@@ -167,6 +167,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="🎱｜数字频道",睛彩竞技
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="🎱｜数字频道",睛彩竞技
+http://[2409:8087:74d9:21::6]/270000001128/9900000119/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="🎱｜数字频道",睛彩广场舞
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
@@ -588,6 +590,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台[卡塔尔]
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://[2409:8087:74d9:21::6]/270000001128/9900000039/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
@@ -613,6 +617,8 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000070/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="🌸| 影剧频道",华数4K影视
@@ -656,6 +662,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
 http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IAS
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
@@ -674,7 +682,7 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
 #EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV军旅剧场.png" group-title="🌸| 影剧频道",军旅剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000107/index.m3u8
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/爱情喜剧.png" group-title="🌸| 影剧频道",爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/超级电视剧.png" group-title="🌸| 影剧频道",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/超级电视剧.png" group-title="🌸| 影剧频道",超级电视剧
