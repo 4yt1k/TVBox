@@ -48,7 +48,7 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="🎱｜数字频道",睛彩青少
 http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="🎱｜数字频道",睛彩竞技
-http://4glyt.dynv6.net:8255/tptv/miguaoyun1-AVS.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000119/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://180.102.250.10:8118/rtp/239.49.8.85:8000
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
