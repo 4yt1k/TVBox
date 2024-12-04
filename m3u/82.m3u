@@ -51,7 +51,7 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000119/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="🎱｜数字频道",电视指南
 http://192.168.8.2:35455/tptv/G_DIANSHIZN-CQ.m3u8
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="🎱｜数字频道",央视文化精品
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="🎱｜数字频道",文化精品
 http://192.168.8.2:35455/tptv/G_CCTV-WENHUA-CQ.m3u8
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="🎱｜数字频道",高尔夫网球
 http://192.168.8.2:35455/tptv/G_CCTV-GOLF-CQ.m3u8
