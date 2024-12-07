@@ -346,6 +346,7 @@ CGTN,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010095/1.m3u8
 CGTN,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -358,3 +359,5 @@ BBC,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+德国之声,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+日本NHK,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
