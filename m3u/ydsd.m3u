@@ -212,7 +212,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8?IAS
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="🌐｜国际频道",美国Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="🌐｜国际频道",美国CNN
@@ -231,3 +231,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="🌐｜国际频道",半岛电视台[卡塔尔]
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="dw" tvg-name="德国之声" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="🌐｜国际频道",德国之声
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-id="NHKWorld" tvg-name="日本NHK" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="🌐｜国际频道",日本NHK
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
