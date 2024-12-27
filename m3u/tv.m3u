@@ -509,8 +509,6 @@ https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBSNews" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🚩｜港•澳•台",TVBSNews
 http://192.168.8.2:35455/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBSNews" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🚩｜港•澳•台",TVBSNews
-http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 http://192.168.8.2:35455/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🚩｜港•澳•台",澳视澳门
