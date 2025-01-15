@@ -8,13 +8,13 @@ http://z.b.bkpcp.top/m.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🌏｜央视频道",CCTV-4中文国际
 http://z.b.bkpcp.top/m.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🌏｜央视频道",CCTV-5体育
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4
+http://z.b.bkpcp.top/m.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🌏｜央视频道",CCTV-6电影
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=1
+http://z.b.bkpcp.top/m.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🌏｜央视频道",CCTV-7军事
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=1
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🌏｜央视频道",CCTV-8电视剧
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=1
+http://z.b.bkpcp.top/m.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🌏｜央视频道",CCTV-9纪录
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=1
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🌏｜央视频道",CCTV-10科教
