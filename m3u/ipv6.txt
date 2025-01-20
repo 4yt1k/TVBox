@@ -226,6 +226,9 @@ CCTV4K,http://222.95.92.12:4000/rtp/239.49.0.82:8000
 西藏卫视,http://4glyt.dynv6.net:5000/1000000002000015894/ystenlive/index.m3u8
 新疆卫视,http://4glyt.dynv6.net:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
 新疆卫视,http://4glyt.dynv6.net:5000/1000000002000029441/ystenlive/index.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,http://4glyt.dynv6.net:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
+兵团卫视,http://4glyt.dynv6.net:35455/itv/5000000006000040020.m3u8?cdn=bestzb
 CETV1,http://4glyt.dynv6.net:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 CETV1,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000002652
 
