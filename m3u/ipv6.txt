@@ -1,6 +1,8 @@
 🌏｜央视频道,#genre#
 CCTV1,http://4glyt.dynv6.net:35455/gaoma/cctv1.m3u8
 CCTV1,http://4glyt.dynv6.net:35455/itv/5000000004000002226.m3u8?cdn=bestzb
+CCTV1,http://4glyt.dynv6.net:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1,http://4glyt.dynv6.net:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
 CCTV1,http://180.102.250.10:8118/rtp/239.49.8.19:9614
 CCTV2,http://4glyt.dynv6.net:35455/gaoma/cctv2.m3u8
