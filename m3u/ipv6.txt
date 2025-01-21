@@ -127,6 +127,8 @@ CCTV4K,http://222.95.92.12:4000/rtp/239.49.0.82:8000
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 ❄️｜卫视频道,#genre#
+广东珠江,http://4glyt.dynv6.net:35455/itv/1000000004000011655.m3u8?cdn=ystenlive
+广东珠江,http://4glyt.dynv6.net:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 浙江卫视,http://4glyt.dynv6.net:35455/itv/5000000004000007275.m3u8?cdn=bestzb
 浙江卫视,http://4glyt.dynv6.net:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
@@ -208,6 +210,7 @@ CCTV4K,http://222.95.92.12:4000/rtp/239.49.0.82:8000
 江西卫视,http://180.102.250.10:8118/rtp/239.49.8.111:8000
 海南卫视,http://4glyt.dynv6.net:35455/itv/5000000004000006211.m3u8?cdn=bestzb
 海南卫视,http://180.102.250.10:8118/rtp/239.49.8.83:8000
+三沙卫视,http://4glyt.dynv6.net:35455/itv/5000000011000288016.m3u8?cdn=bestzb
 三沙卫视,http://180.102.250.10:8118/rtp/239.49.0.167:8000
 辽宁卫视,http://4glyt.dynv6.net:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 辽宁卫视,http://4glyt.dynv6.net:35455/itv/5000000004000011671.m3u8?cdn=bestzb
