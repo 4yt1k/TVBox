@@ -257,13 +257,30 @@ TVBSNews,http://4glyt.dynv6.net:35455/youtube/m_dhMSvUCIc
 
 ⚽️｜体育频道,#genre#
 五星体育,http://4glyt.dynv6.net:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+五星体育,http://4glyt.dynv6.net:35455/itv/2000000002000000007.m3u8?cdn=hnbblive
 劲爆体育,http://4glyt.dynv6.net:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+劲爆体育,http://4glyt.dynv6.net:35455/itv/2000000002000000008.m3u8?cdn=hnbblive
 魅力足球,http://4glyt.dynv6.net:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+魅力足球,http://4glyt.dynv6.net:35455/itv/2000000002000000068.m3u8?cdn=hnbblive
 精品体育,http://4glyt.dynv6.net:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
-睛彩青少,http://4glyt.dynv6.net:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+精品体育,http://4glyt.dynv6.net:35455/itv/2000000003000000021.m3u8?cdn=hnbblive
+睛彩篮球,http://4glyt.dynv6.net:35455/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
+睛彩篮球,http://4glyt.dynv6.net:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+睛彩篮球,http://4glyt.dynv6.net:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+睛彩篮球,http://4glyt.dynv6.net:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+睛彩青少,http://4glyt.dynv6.net:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+睛彩青少,http://4glyt.dynv6.net:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
+睛彩青少,http://4glyt.dynv6.net:35455/itv/2000000003000000068.m3u8?cdn=hnbblive
+睛彩竞技,http://4glyt.dynv6.net:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+睛彩竞技,http://4glyt.dynv6.net:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
+睛彩竞技,http://4glyt.dynv6.net:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+睛彩广场舞,http://4glyt.dynv6.net:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+睛彩广场舞,http://4glyt.dynv6.net:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
+睛彩广场舞,http://4glyt.dynv6.net:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 
 🌸| 影剧频道,#genre#
 华数4K影视,http://4glyt.dynv6.net:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
+华数4K影视,http://4glyt.dynv6.net:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
 华数4K影视,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000014
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -288,9 +305,16 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 精品纪录,http://4glyt.dynv6.net:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 
 🌈| 少儿动画,#genre#
+金鹰卡通,http://4glyt.dynv6.net:35455/itv/5000000006000040024.m3u8?cdn=bestzb
 金鹰卡通,http://180.102.250.10:8118/rtp/239.49.8.33:8000
 黑莓动画,http://4glyt.dynv6.net:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+黑莓动画,http://4glyt.dynv6.net:35455/itv/2000000003000000002.m3u8?cdn=hnbblive
 卡酷少儿,http://4glyt.dynv6.net:35455/itv/5000000011000265008.m3u8?cdn=bestzb
+卡酷少儿,http://4glyt.dynv6.net:35455/itv/7851974109718180595.m3u8?cdn=bestzb
+哈哈炫动,http://4glyt.dynv6.net:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+哈哈炫动,http://4glyt.dynv6.net:35455/itv/5000000005000031641.m3u8?cdn=bestzb
+优漫卡通,http://4glyt.dynv6.net:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
+嘉佳卡通,http://4glyt.dynv6.net:35455/itv/1000000002000025964.m3u8?cdn=ystenlive
 
 🌐｜国际频道,#genre#
 CGTN,http://4glyt.dynv6.net:35455/gaoma/cgtnen.m3u8
