@@ -159,8 +159,14 @@ http://192.168.8.2:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 http://192.168.8.2:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
 http://192.168.8.2:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
+http://192.168.8.2:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
-http://192.168.8.2:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+http://192.168.8.2:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
+http://192.168.8.2:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
+http://192.168.8.2:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="🌸| 影剧频道",华数4K影视
 http://192.168.8.2:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
@@ -194,11 +200,17 @@ http://192.168.8.2:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://epg.v1.mk/logo/newtv精品纪录.png" group-title="🌸| 影剧频道",精品纪录
 http://192.168.8.2:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
-http://180.102.250.10:8118/rtp/239.49.8.33:8000
+http://192.168.8.2:35455/itv/5000000006000040024.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🌈| 少儿动画",黑莓动画
 http://192.168.8.2:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://192.168.8.2:35455/itv/5000000011000265008.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
+http://192.168.8.2:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
+http://192.168.8.2:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
+http://192.168.8.2:35455/itv/1000000002000025964.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://192.168.8.2:35455/gaoma/cgtnen.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
