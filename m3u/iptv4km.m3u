@@ -36,23 +36,23 @@ http://4glyt.dynv6.net:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://4glyt.dynv6.net:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://4glyt.dynv6.net:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.85:8000
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
-http://4glyt.dynv6.net:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.32:8000
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-http://4glyt.dynv6.net:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.92:8000
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://4glyt.dynv6.net:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.89:8000
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-http://4glyt.dynv6.net:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.94:8000
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://4glyt.dynv6.net:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.91:8000
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="🎱｜数字频道",兵器科技
-http://4glyt.dynv6.net:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.88:8000
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="🎱｜数字频道",女性时尚
-http://4glyt.dynv6.net:35455/rptv/G_NVXINGSS-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
-http://4glyt.dynv6.net:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
+http://180.102.250.10:8118/rtp/239.49.8.87:8000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
 http://4glyt.dynv6.net:35455/itv/5000000004000007275.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="❄️｜卫视频道",江苏卫视
@@ -153,10 +153,14 @@ http://4glyt.dynv6.net:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 http://4glyt.dynv6.net:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
 http://4glyt.dynv6.net:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
+http://4glyt.dynv6.net:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
-http://4glyt.dynv6.net:35455/rptv/G_MIGUJCQS.m3u8?license=gitv
+http://4glyt.dynv6.net:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
-http://4glyt.dynv6.net:35455/rptv/miguaoyun1-AVS.m3u8?license=gitv
+http://4glyt.dynv6.net:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
+http://4glyt.dynv6.net:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
@@ -188,11 +192,17 @@ http://4glyt.dynv6.net:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://epg.v1.mk/logo/newtv精品纪录.png" group-title="🌸| 影剧频道",精品纪录
 http://4glyt.dynv6.net:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
-http://180.102.250.10:8118/rtp/239.49.8.33:8000
+http://4glyt.dynv6.net:35455/itv/5000000006000040024.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🌈| 少儿动画",黑莓动画
 http://4glyt.dynv6.net:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://4glyt.dynv6.net:35455/itv/5000000011000265008.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
+http://4glyt.dynv6.net:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
+http://4glyt.dynv6.net:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
+http://4glyt.dynv6.net:35455/itv/1000000002000025964.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://4glyt.dynv6.net:35455/gaoma/cgtnen.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
