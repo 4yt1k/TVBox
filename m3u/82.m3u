@@ -132,11 +132,11 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="❄️｜卫视频道",CETV1
 http://192.168.8.2:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
-http://192.168.8.2:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
+https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
-http://192.168.8.2:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
+https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="🚩｜港•澳•台",凤凰香港
-http://192.168.8.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="🚩｜港•澳•台",无线新闻台
 https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🚩｜港•澳•台",翡翠台
