@@ -1,62 +1,64 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🌏｜央视频道",CCTV-1综合
-http://4iptv.dynv6.net:35455/itv/5000000004000002226.m3u8?cdn=bestzb
+http://4iptv.dynv6.net:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🌏｜央视频道",CCTV-2财经
-http://4iptv.dynv6.net:35455/itv/6000000001000014161.m3u8?cdn=wasusyt
+http://4iptv.dynv6.net:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🌏｜央视频道",CCTV-3综艺
-http://4iptv.dynv6.net:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+http://4iptv.dynv6.net:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🌏｜央视频道",CCTV-4中文国际
-http://4iptv.dynv6.net:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+http://4iptv.dynv6.net:35455/gaoma/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🌏｜央视频道",CCTV-5体育
-http://4iptv.dynv6.net:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
+http://4iptv.dynv6.net:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
-http://4iptv.dynv6.net:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+http://4iptv.dynv6.net:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
-http://4iptv.dynv6.net:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+http://4iptv.dynv6.net:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🌏｜央视频道",CCTV-6电影
-http://4iptv.dynv6.net:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
+http://4iptv.dynv6.net:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🌏｜央视频道",CCTV-7军事
-http://4iptv.dynv6.net:35455/itv/6000000001000009055.m3u8?cdn=wasusyt
+http://4iptv.dynv6.net:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🌏｜央视频道",CCTV-8电视剧
-http://4iptv.dynv6.net:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+http://4iptv.dynv6.net:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🌏｜央视频道",CCTV-9纪录
-http://4iptv.dynv6.net:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
+http://4iptv.dynv6.net:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🌏｜央视频道",CCTV-10科教
-http://4iptv.dynv6.net:35455/itv/5000000004000012827.m3u8?cdn=bestzb
+http://4iptv.dynv6.net:35455/gaoma/cctv10.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🌏｜央视频道",CCTV-11戏曲
-http://4iptv.dynv6.net:35455/itv/5000000011000031106.m3u8?cdn=bestzb
+http://4iptv.dynv6.net:35455/gaoma/cctv11.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🌏｜央视频道",CCTV-12社会与法
-http://4iptv.dynv6.net:35455/itv/6000000001000022586.m3u8?cdn=wasusyt
+http://4iptv.dynv6.net:35455/gaoma/cctv12.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🌏｜央视频道",CCTV-13新闻
-http://4iptv.dynv6.net:35455/itv/5000000011000031108.m3u8?cdn=bestzb
+http://4iptv.dynv6.net:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🌏｜央视频道",CCTV-14少儿
-http://4iptv.dynv6.net:35455/itv/5000000004000006673.m3u8?cdn=bestzb
+http://4iptv.dynv6.net:35455/gaoma/cctv14.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="🌏｜央视频道",CCTV-15音乐
-http://4iptv.dynv6.net:35455/itv/5000000011000031109.m3u8?cdn=bestzb
+http://4iptv.dynv6.net:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
-http://4iptv.dynv6.net:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+http://4iptv.dynv6.net:35455/gaoma/cctv17.m3u8
+#EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="🎱｜数字频道",CCTV8K
+http://4iptv.dynv6.net:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
-http://222.95.92.12:4000/rtp/239.49.0.82:8000
+http://4iptv.dynv6.net:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="🎱｜数字频道",纯享4K
 http://4iptv.dynv6.net:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://222.95.92.12:4000/rtp/239.49.8.85:8000
+http://4iptv.dynv6.net:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
-http://222.95.92.12:4000/rtp/239.49.8.32:8000
+http://4iptv.dynv6.net:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-http://222.95.92.12:4000/rtp/239.49.8.92:8000
+http://4iptv.dynv6.net:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://222.95.92.12:4000/rtp/239.49.8.89:8000
+http://4iptv.dynv6.net:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-http://222.95.92.12:4000/rtp/239.49.8.94:8000
+http://4iptv.dynv6.net:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://222.95.92.12:4000/rtp/239.49.8.91:8000
+http://4iptv.dynv6.net:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="🎱｜数字频道",兵器科技
-http://222.95.92.12:4000/rtp/239.49.8.88:8000
+http://4iptv.dynv6.net:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="🎱｜数字频道",女性时尚
-http://222.95.92.12:4000/rtp/239.49.8.93:8000
+http://4iptv.dynv6.net:35455/rptv/G_NVXINGSS-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🎱｜数字频道",世界地理
-http://222.95.92.12:4000/rtp/239.49.8.87:8000
+http://4iptv.dynv6.net:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="爱自然4K" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="🎱｜数字频道",爱自然4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
@@ -132,11 +134,11 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="❄️｜卫视频道",CETV1
 http://4iptv.dynv6.net:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
-https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+http://4iptv.dynv6.net:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
-https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+http://4iptv.dynv6.net:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="🚩｜港•澳•台",凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+http://4iptv.dynv6.net:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="🚩｜港•澳•台",无线新闻台
 https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🚩｜港•澳•台",翡翠台
@@ -210,7 +212,7 @@ http://4iptv.dynv6.net:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
 http://4iptv.dynv6.net:35455/itv/1000000002000025964.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
-http://4iptv.dynv6.net:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
+http://4iptv.dynv6.net:35455/gaoma/cgtnen.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="🌐｜国际频道",美国Fox
