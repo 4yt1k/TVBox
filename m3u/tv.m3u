@@ -444,8 +444,6 @@ http://192.168.8.2:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
 http://192.168.8.2:35455/itv/2000000003000000021.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
-http://192.168.8.2:35455/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://192.168.8.2:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://192.168.8.2:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
