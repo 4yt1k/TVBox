@@ -87,15 +87,15 @@ CCTV4K,http://222.95.92.12:4000/rtp/239.49.0.82:8000
 纯享4K,http://4iptv.dynv6.net:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 纯享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 纯享4K,https://stream1.freetv.fun/cctv4k-2.ctv
-风云足球,http://222.95.92.12:4000/rtp/239.49.8.85:8000
-央视台球,http://222.95.92.12:4000/rtp/239.49.8.32:8000
-风云音乐,http://222.95.92.12:4000/rtp/239.49.8.92:8000
-风云剧场,http://222.95.92.12:4000/rtp/239.49.8.89:8000
-第一剧场,http://222.95.92.12:4000/rtp/239.49.8.94:8000
-怀旧剧场,http://222.95.92.12:4000/rtp/239.49.8.91:8000
-兵器科技,http://222.95.92.12:4000/rtp/239.49.8.88:8000
-女性时尚,http://222.95.92.12:4000/rtp/239.49.8.93:8000
-世界地理,http://222.95.92.12:4000/rtp/239.49.8.87:8000
+风云足球,http://202.102.201.244:40022/rtp/238.1.79.57:4592
+央视台球,http://202.102.201.244:40022/rtp/238.1.79.59:4608
+风云音乐,http://202.102.201.244:40022/rtp/238.1.79.64:4648
+风云剧场,http://202.102.201.244:40022/rtp/238.1.79.62:4632
+第一剧场,http://202.102.201.244:40022/rtp/238.1.79.63:4640
+怀旧剧场,http://202.102.201.244:40022/rtp/238.1.79.61:4624
+兵器科技,http://202.102.201.244:40022/rtp/238.1.79.56:4584
+女性时尚,http://202.102.201.244:40022/rtp/238.1.79.55:4576
+世界地理,http://202.102.201.244:40022/rtp/238.1.79.60:4616
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
@@ -248,9 +248,9 @@ TVBSNews,http://4iptv.dynv6.net:35455/youtube/m_dhMSvUCIc
 华数4K影视,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000014
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
-CHC影迷电影,http://annaxi.lw-home.com:11111/udp/239.253.254.154:8000
-CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 黑莓电影,http://4iptv.dynv6.net:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 欢笑剧场,http://4iptv.dynv6.net:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 欢笑剧场,http://4iptv.dynv6.net:35455/itv/5000000002000009455.m3u8?cdn=bestzb
