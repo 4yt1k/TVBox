@@ -201,6 +201,10 @@ http://4iptv.dynv6.net:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 http://4iptv.dynv6.net:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://epg.v1.mk/logo/newtv精品纪录.png" group-title="🌸| 影剧频道",精品纪录
 http://4iptv.dynv6.net:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://epg.v1.mk/logo/淘娱乐.png" group-title="🌈| 少儿动画",北京淘娱乐
+http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1 tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="🌈| 少儿动画",北京淘BABY
+http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887496.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://4iptv.dynv6.net:35455/itv/5000000006000040024.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🌈| 少儿动画",黑莓动画
