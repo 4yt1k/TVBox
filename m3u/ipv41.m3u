@@ -179,12 +179,6 @@ http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887498.m3u8
 http://4iptv.dynv6.net:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
-http://eastscreen.tv/ooooo.php?id=chcjt
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
-http://eastscreen.tv/ooooo.php?id=chchd
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
-http://eastscreen.tv/ooooo.php?id=chcdz
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://4iptv.dynv6.net:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="🌸| 影剧频道",欢笑剧场
