@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🌏｜央视频道",国足直播
 https://www.freetv.top/iqiyi/4241361/4945853805068623.m3u8?iqytoken=2e750a19769bee19d004a50bd0c050d0d1cf66823396efd96008e7e6449a22f1cc0ca98d793855c9e85e4ba30f91ed02f530cfd1ad2c7992e45c6d2cc94157375a5b4bb8562444eb2ef777ae18d8e864d3deee0852c3a54516807267f3f645f0b58836b4b79198dbbd5aa80547f33545e7dd960f9ba40d521598b3461122a02f059b4e37e305a7543c943f63dc41589932b47906293df13a62cfe71d879bf8a8dd54c4917d227f2331bf7736bc3e691d8d1f
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🌏｜央视频道",CCTV-1综合
 http://4iptv.dynv6.net:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🌏｜央视频道",CCTV-2财经
