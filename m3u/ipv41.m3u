@@ -62,65 +62,65 @@ http://202.102.201.244:40022/rtp/238.1.79.60:4616
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="爱自然4K" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="🎱｜数字频道",爱自然4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.164:7184
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="❄️｜卫视频道",江苏卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.165:7192
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="❄️｜卫视频道",湖南卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.160:7152
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="❄️｜卫视频道",东方卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.163:7176
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="❄️｜卫视频道",北京卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.162:7168
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="❄️｜卫视频道",深圳卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.156:7120
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="❄️｜卫视频道",天津卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.20:6088
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="❄️｜卫视频道",广西卫视
 http://4iptv.dynv6.net:35455/itv/5000000011000031118.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
-http://4iptv.dynv6.net:35455/itv/6000000001000031076.m3u8?cdn=wasusyt
+http://202.102.201.244:40022/rtp/238.1.78.161:7160
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="❄️｜卫视频道",广东珠江
 http://4iptv.dynv6.net:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="❄️｜卫视频道",湖北卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.168:7216
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="❄️｜卫视频道",四川卫视
-http://4iptv.dynv6.net:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.78.30:6168
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="❄️｜卫视频道",重庆卫视
-http://4iptv.dynv6.net:35455/itv/1000000001000001096.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.31:6176
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="❄️｜卫视频道",贵州卫视
-http://4iptv.dynv6.net:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.78.244:7824
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="❄️｜卫视频道",云南卫视
 http://4iptv.dynv6.net:35455/itv/5000000011000031120.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="❄️｜卫视频道",山东卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.169:7224
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="❄️｜卫视频道",河北卫视
-http://4iptv.dynv6.net:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.78.245:7832
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="❄️｜卫视频道",河南卫视
-http://4iptv.dynv6.net:35455/itv/5000000011000031119.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.79.65:4632
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
 http://4iptv.dynv6.net:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
 http://4iptv.dynv6.net:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
-http://4iptv.dynv6.net:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.79.36:4400
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
 http://4iptv.dynv6.net:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="❄️｜卫视频道",安徽卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.150:7072
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="❄️｜卫视频道",东南卫视
-http://4iptv.dynv6.net:35455/itv/5000000004000010584.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.78.22:6104
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="❄️｜卫视频道",江西卫视
-http://4iptv.dynv6.net:35455/itv/1000000006000268001.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.26:6136
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
-http://4iptv.dynv6.net:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.79.49:4504
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="❄️｜卫视频道",三沙卫视
 http://4iptv.dynv6.net:35455/itv/5000000011000288016.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="❄️｜卫视频道",辽宁卫视
-http://4iptv.dynv6.net:35455/itv/5000000004000011671.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.78.21:6096
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="❄️｜卫视频道",吉林卫视
-http://4iptv.dynv6.net:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.79.48:4496
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="❄️｜卫视频道",黑龙江卫视
-http://4iptv.dynv6.net:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
+http://202.102.201.244:40022/rtp/238.1.78.159:7144
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
 http://4iptv.dynv6.net:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="❄️｜卫视频道",内蒙古卫视
@@ -132,7 +132,7 @@ http://4iptv.dynv6.net:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="❄️｜卫视频道",CETV1
-http://4iptv.dynv6.net:35455/itv/5000000002000002652.m3u8?cdn=bestzb
+http://202.102.201.244:40022/rtp/238.1.78.158:7136
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
