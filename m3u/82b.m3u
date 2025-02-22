@@ -82,7 +82,7 @@ http://192.168.8.2:35455/bptv/10000100000000050000000003873459.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="❄️｜卫视频道",湖北卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000003873465.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="❄️｜卫视频道",四川卫视
-http://192.168.8.2:35455/bptv/10000100000000050000000003887274.m3u8
+http://202.102.201.244:40022/rtp/238.1.78.30:6168
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="❄️｜卫视频道",重庆卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000004796458.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="❄️｜卫视频道",贵州卫视
@@ -94,7 +94,7 @@ http://192.168.8.2:35455/bptv/10000100000000050000000003873467.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="❄️｜卫视频道",河北卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000003873460.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="❄️｜卫视频道",河南卫视
-http://192.168.8.2:35455/bptv/10000100000000050000000003887270.m3u8
+http://202.102.201.244:40022/rtp/238.1.79.65:4632
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000003887413.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
@@ -110,23 +110,15 @@ http://192.168.8.2:35455/bptv/10000100000000050000000003873473.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="❄️｜卫视频道",江西卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000004796511.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
-http://192.168.8.2:35455/bptv/10000100000000050000000004796877.m3u8
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="❄️｜卫视频道",三沙卫视
-http://192.168.8.2:35455/bptv/10000100000000050000000003887452.m3u8
+http://202.102.201.244:40022/rtp/238.1.79.49:4504
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="❄️｜卫视频道",辽宁卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000003873468.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="❄️｜卫视频道",吉林卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000004972569.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="❄️｜卫视频道",黑龙江卫视
 http://192.168.8.2:35455/bptv/10000100000000050000000003873470.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
-http://192.168.8.2:35455/bptv/10000100000000050000000003887430.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="❄️｜卫视频道",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
-http://192.168.8.2:35455/bptv/10000100000000050000000003887448.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="❄️｜卫视频道",CETV1
