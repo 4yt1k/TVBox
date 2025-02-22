@@ -151,6 +151,8 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://4iptv.dynv6.net:35455/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="🌸| 影剧频道",北京IPTV4K
 http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887500.m3u8
+#EXTINF:-1 tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://epg.v1.mk/logo/BTV-重温经典.png" group-title="🌸| 影剧频道",BTV-重温经典
+http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887494.m3u8
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://epg.v1.mk/logo/淘剧场.png" group-title="🌸| 影剧频道",北京淘剧场
 http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="🌸| 影剧频道",北京淘电影
