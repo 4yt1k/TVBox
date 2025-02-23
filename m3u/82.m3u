@@ -168,7 +168,7 @@ http://192.168.8.2:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="🌸| 影剧频道",华数4K影视
 http://192.168.8.2:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://192.168.8.2:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="🌸| 影剧频道",欢笑剧场
