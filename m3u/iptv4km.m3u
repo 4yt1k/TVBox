@@ -213,7 +213,3 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="🌐｜国际频道",半岛电视台[卡塔尔]
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="dw" tvg-name="德国之声" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="🌐｜国际频道",德国之声
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="NHKWorld" tvg-name="日本NHK" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="🌐｜国际频道",日本NHK
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
