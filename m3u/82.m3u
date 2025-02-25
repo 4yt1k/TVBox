@@ -158,9 +158,9 @@ http://192.168.8.2:35455/bptv/10000100000000050000000003887496.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://192.168.8.2:35455/bptv/10000100000000050000000003904597.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
-http://192.168.8.2:35455/bptv/10000100000000050000000004796942.m3u8
+http://192.168.8.2:35455/itv/5000000006000040024.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
-http://192.168.8.2:35455/bptv/10000100000000050000000003887459.m3u8
+http://192.168.8.2:35455/itv/1000000002000025964.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://192.168.8.2:35455/gaoma/cgtnen.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]

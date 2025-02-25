@@ -35,10 +35,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="🎱｜数字频道",CCTV8K
-http://4iptv.dynv6.net:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🎱｜数字频道",CCTV4K
-http://4iptv.dynv6.net:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://202.102.201.244:40022/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🎱｜数字频道",央视台球
@@ -133,22 +129,12 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🚩｜港•澳•台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
-http://4iptv.dynv6.net:35455/youtube/6IquAgfvYmc
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
-http://4iptv.dynv6.net:35455/youtube/vr3XyVCR4T0
-#EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBSNews" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🚩｜港•澳•台",TVBSNews
-http://4iptv.dynv6.net:35455/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
-http://4iptv.dynv6.net:35455/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="🌸| 影剧频道",欢笑剧场
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/惊悚悬疑.png" group-title="🌸| 影剧频道",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/爱情喜剧.png" group-title="🌸| 影剧频道",爱情喜剧
@@ -177,8 +163,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="🌐｜国际频道",美国CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="🌐｜国际频道",美国NBC
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="🌐｜国际频道",美国ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/cbs.png" group-title="🌐｜国际频道",美国CBS
