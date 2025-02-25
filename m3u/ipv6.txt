@@ -265,7 +265,7 @@ BTV-重温经典,http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887
 华数4K影视,http://4iptv.dynv6.net:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 华数4K影视,http://4iptv.dynv6.net:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
 黑莓电影,http://4iptv.dynv6.net:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
+CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 欢笑剧场,http://4iptv.dynv6.net:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 欢笑剧场,http://4iptv.dynv6.net:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 都市剧场,http://4iptv.dynv6.net:35455/itv/5000000011000031111.m3u8?cdn=bestzb
