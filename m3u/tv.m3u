@@ -456,49 +456,49 @@ http://192.168.8.2:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 http://192.168.8.2:35455/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
+http://192.168.8.2:35455/bptv/10000100000000050000000003870779.m3u8
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
 http://192.168.8.2:35455/bptv/10000100000000050000000004270525.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
-http://192.168.8.2:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
 http://192.168.8.2:35455/itv/2000000002000000007.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="⚽️｜体育频道",劲爆体育
-http://192.168.8.2:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
+http://192.168.8.2:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="⚽️｜体育频道",劲爆体育
 http://192.168.8.2:35455/itv/2000000002000000008.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="⚽️｜体育频道",魅力足球
-http://192.168.8.2:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="⚽️｜体育频道",劲爆体育
+http://192.168.8.2:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="⚽️｜体育频道",魅力足球
 http://192.168.8.2:35455/itv/2000000002000000068.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
-http://192.168.8.2:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="⚽️｜体育频道",魅力足球
+http://192.168.8.2:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
 http://192.168.8.2:35455/itv/2000000003000000021.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
-http://192.168.8.2:35455/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
-http://192.168.8.2:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
+http://192.168.8.2:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://192.168.8.2:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://192.168.8.2:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
+http://192.168.8.2:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
 http://192.168.8.2:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
-http://192.168.8.2:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
 http://192.168.8.2:35455/itv/2000000003000000068.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
+http://192.168.8.2:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
 http://192.168.8.2:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
-http://192.168.8.2:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
 http://192.168.8.2:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
+http://192.168.8.2:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
 http://192.168.8.2:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
-http://192.168.8.2:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
 http://192.168.8.2:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
+http://192.168.8.2:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="🌸| 影剧频道",北京IPTV4K
 http://192.168.8.2:35455/bptv/10000100000000050000000003887500.m3u8
 #EXTINF:-1 tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/btv-cwjd.png" group-title="🌸| 影剧频道",BTV-重温经典

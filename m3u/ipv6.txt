@@ -218,12 +218,16 @@ CETV1,http://4iptv.dynv6.net:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 CETV1,http://202.102.201.244:40022/rtp/238.1.78.158:7136
 
 🚩｜港•澳•台,#genre#
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://4iptv.dynv6.net:35455/youtube/HFib76ySpbU
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://119.32.12.17:2901/udp/224.1.100.121:11111
 寰宇新闻,http://4iptv.dynv6.net:35455/youtube/6IquAgfvYmc
 中天新闻台,http://4iptv.dynv6.net:35455/youtube/vr3XyVCR4T0
@@ -231,28 +235,28 @@ TVBSNews,http://4iptv.dynv6.net:35455/youtube/m_dhMSvUCIc
 东森新闻台,http://4iptv.dynv6.net:35455/youtube/V1p33hqPrUk
 
 ⚽️｜体育频道,#genre#
+北京体育休闲,http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003870779.m3u8
 北京体育休闲,http://4iptv.dynv6.net:35455/bptv/10000100000000050000000004270525.m3u8
-五星体育,http://4iptv.dynv6.net:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://4iptv.dynv6.net:35455/itv/2000000002000000007.m3u8?cdn=hnbblive
-劲爆体育,http://4iptv.dynv6.net:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+五星体育,http://4iptv.dynv6.net:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 劲爆体育,http://4iptv.dynv6.net:35455/itv/2000000002000000008.m3u8?cdn=hnbblive
-魅力足球,http://4iptv.dynv6.net:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+劲爆体育,http://4iptv.dynv6.net:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 魅力足球,http://4iptv.dynv6.net:35455/itv/2000000002000000068.m3u8?cdn=hnbblive
-精品体育,http://4iptv.dynv6.net:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+魅力足球,http://4iptv.dynv6.net:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 精品体育,http://4iptv.dynv6.net:35455/itv/2000000003000000021.m3u8?cdn=hnbblive
-睛彩篮球,http://4iptv.dynv6.net:35455/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
-睛彩篮球,http://4iptv.dynv6.net:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+精品体育,http://4iptv.dynv6.net:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 睛彩篮球,http://4iptv.dynv6.net:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 睛彩篮球,http://4iptv.dynv6.net:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+睛彩篮球,http://4iptv.dynv6.net:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩青少,http://4iptv.dynv6.net:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-睛彩青少,http://4iptv.dynv6.net:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
 睛彩青少,http://4iptv.dynv6.net:35455/itv/2000000003000000068.m3u8?cdn=hnbblive
+睛彩青少,http://4iptv.dynv6.net:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
 睛彩竞技,http://4iptv.dynv6.net:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-睛彩竞技,http://4iptv.dynv6.net:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
 睛彩竞技,http://4iptv.dynv6.net:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+睛彩竞技,http://4iptv.dynv6.net:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
 睛彩广场舞,http://4iptv.dynv6.net:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-睛彩广场舞,http://4iptv.dynv6.net:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
 睛彩广场舞,http://4iptv.dynv6.net:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+睛彩广场舞,http://4iptv.dynv6.net:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
 
 🌸| 影剧频道,#genre#
 北京IPTV4K,http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003887500.m3u8
