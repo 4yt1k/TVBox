@@ -233,6 +233,8 @@ http://4iptv.dynv6.net:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
 http://4iptv.dynv6.net:35455/itv/6000000001000003639.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="❄️｜卫视频道",东方卫视
 http://202.102.201.244:40022/rtp/238.1.78.163:7176
+#EXTINF:-1 tvg-id="北京4K" tvg-name="北京4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="❄️｜卫视频道",北京4K
+http://4iptv.dynv6.net:35455/bptv/10000100000000050000000004270525.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="❄️｜卫视频道",北京卫视
 http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003870776.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="❄️｜卫视频道",北京卫视
@@ -457,20 +459,18 @@ http://4iptv.dynv6.net:35455/youtube/m_dhMSvUCIc
 http://4iptv.dynv6.net:35455/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
 http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003870779.m3u8
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
-http://4iptv.dynv6.net:35455/bptv/10000100000000050000000004270525.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
-http://4iptv.dynv6.net:35455/itv/2000000002000000007.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
 http://4iptv.dynv6.net:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="⚽️｜体育频道",劲爆体育
-http://4iptv.dynv6.net:35455/itv/2000000002000000008.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
+http://4iptv.dynv6.net:35455/itv/2000000002000000007.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="⚽️｜体育频道",劲爆体育
 http://4iptv.dynv6.net:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="⚽️｜体育频道",魅力足球
-http://4iptv.dynv6.net:35455/itv/2000000002000000068.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="⚽️｜体育频道",劲爆体育
+http://4iptv.dynv6.net:35455/itv/2000000002000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="⚽️｜体育频道",魅力足球
 http://4iptv.dynv6.net:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="⚽️｜体育频道",魅力足球
+http://4iptv.dynv6.net:35455/itv/2000000002000000068.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
 http://4iptv.dynv6.net:35455/itv/2000000003000000021.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.kakaxi-1.ink/LOGO/NEWTV精品体育.png" group-title="⚽️｜体育频道",精品体育
